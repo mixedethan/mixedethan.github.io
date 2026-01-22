@@ -6,21 +6,10 @@
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ethan---wilson/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mixedethan">
-    <img src="https://img.shields.io/badge/github-link-blue?logo=github" />
-  </a>
-  &nbsp;
-  <a href="https://public.tableau.com/app/profile/ethmwn/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ethmwn">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ethan---wilson/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/mixedethan"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://public.tableau.com/app/profile/ethmwn/vizzes"><img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/ethmwn"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ---
