@@ -10,6 +10,7 @@
   <a href="https://www.instagram.com/ethmwn"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
+
 ---
 
 ## 📖 About Me
@@ -17,6 +18,7 @@
 I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a background in building end-to-end machine learning pipelines. My expertise lies in converting raw, messy data into actionable competitive advantages.
 
 I thrive in high-stakes environments where precision, efficiency, and speed are the difference between winning and losing.
+
 
 ---
 
@@ -31,6 +33,7 @@ I thrive in high-stakes environments where precision, efficiency, and speed are 
 **Bachelor of Arts, Business Administration & Computer Information Science**
 * **Minor:** Computer Information Science & Engineering
 * **Graduated:** May 2024
+
 
 ---
 
@@ -54,6 +57,7 @@ A predictive modeling project forecasting College Football season outcomes using
 
 * **ETL Pipeline:** Built a robust automated pipeline using **BeautifulSoup** to scrape 9 years of team statistics from *cfbstats.com*, extracting 50+ raw metrics.
 * **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
+
 
 ---
 
@@ -86,9 +90,6 @@ fostering community engagement
 * Train, supervise, and mentor community ambassadors to develop their leasing and prospecting acumen and
 communication skills.
   
-
-
-
 
 ---
 
