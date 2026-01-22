@@ -96,7 +96,7 @@ communication skills.
 
 ## 📬 Contact
 
-I am currently open to Data Science and Analyst opportunities.
+I am currently open to any and all data-related opportunities.
 
 * **Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
 * **LinkedIn:** [linkedin.com/in/ethan---wilson/](https://www.linkedin.com/in/ethan---wilson/)
