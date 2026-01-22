@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://github.com/mixedethan">
+    <img src="https://img.shields.io/badge/github-link-blue?logo=github" />
+  </a>
+  &nbsp;
   <a href="https://public.tableau.com/app/profile/ethmwn/vizzes">
     <img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
