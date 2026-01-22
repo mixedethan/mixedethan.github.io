@@ -15,6 +15,8 @@
 
 I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
 
+In my free time I love to fish, spend time with friends and family, and of course watch sports.
+
 ---
 
 ## 🎓 Education
