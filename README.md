@@ -36,7 +36,7 @@ In my free time I love to fish, spend time with friends and family, and of cours
 # **Experience**
 
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](aroapp.ai)
-*Miami, FL (Remote) | July 2025 – Dec 2025*
+*Miami, FL | July 2025 – Dec 2025*
 * Developed an end-to-end **MLOps pipeline** to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by **60%**.
 * Implemented **NLP** techniques for feature extraction, utilizing **spaCy** for part-of-speech tagging and **sentence-transformers** to create embeddings for clustering.
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
