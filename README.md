@@ -1,6 +1,6 @@
 # Ethan Wilson
 
-<div align="center">
+<div align="left">
   <img src="assets/headshot.JPG" width="200" height="200" alt="Ethan Wilson" style="border-radius: 50%; object-fit: cover;">
 </div>
 
