@@ -1,5 +1,5 @@
 title: Ethan Wilson | Data Scientist
-logo: assets/headshot.JPG
-description: this is below the image
+#logo: assets/headshot.JPG
+#description: this is below the image
 theme: jekyll-theme-minimal
 show_downloads: false
