@@ -1,6 +1,8 @@
 # Ethan Wilson
 
-### Data Scientist | Former Division I Athlete 🐊
+![ethan_wilson_image](assets/img/headshot.jpg)
+
+### Data Scientist | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left">
@@ -43,7 +45,7 @@ I thrive in high-stakes environments where precision, efficiency, and speed are 
 
 ## 📂 Featured Projects
 
-### 🏈 [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
+### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
 *Python, LightGBM, Streamlit*
 
 A machine learning application designed to act as a Virtual Defensive Coordinator. It predicts whether an offense will Run or Pass, and whether they will "Go for it" on 4th Down based on game context.
@@ -54,7 +56,7 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 
 [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
 
-### 📊 [Predicting CFB Wins 2025](https://github.com/mixedethan/predicting-cfb-wins-2025)
+### [Predicting CFB Wins 2025](https://github.com/mixedethan/predicting-cfb-wins-2025)
 *Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
 
 A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
