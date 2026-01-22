@@ -1,7 +1,7 @@
 # Ethan Wilson
 
 <div align="left">
-  <img src="assets/headshot.JPG" width="200" height="200" alt="Ethan Wilson" style="border-radius: 50%; object-fit: cover;">
+  <img src="assets/headshot.JPG" width="300" height="300" alt="Ethan Wilson" style="border-radius: 50%; object-fit: cover;">
 </div>
 
 ### Data Scientist | Former Division I Athlete
