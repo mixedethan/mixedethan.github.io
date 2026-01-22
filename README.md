@@ -1,4 +1,4 @@
-## Data Scientist | Former Division I Athlete
+# Data Scientist | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left">
@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 About Me
+# 📖 About Me
 
 I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
 
@@ -19,7 +19,7 @@ In my free time I love to fish, spend time with friends and family, and of cours
 
 ---
 
-## *Education*
+# **Education**
 
 **University of Florida** | *Gainesville, FL* -
 **Master of Science, Information Systems and Operations Management**
@@ -33,7 +33,7 @@ In my free time I love to fish, spend time with friends and family, and of cours
 
 ---
 
-## *Experience*
+# **Experience**
 
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](aroapp.ai)
 *Miami, FL (Remote) | July 2025 – Dec 2025*
@@ -66,7 +66,7 @@ communication skills.
 ---
 ---
 
-## *Projects*
+# **Projects**
 
 ### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
 *Python, LightGBM, Streamlit*
@@ -91,7 +91,7 @@ A predictive modeling project forecasting College Football season outcomes using
 ---
 
 
-## 📬 *Contact*
+# 📬 *Contact*
 
 I am currently open to any and all data-related opportunities.
 
