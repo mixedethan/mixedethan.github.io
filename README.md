@@ -22,12 +22,12 @@ I thrive in high-stakes environments where precision, efficiency, and speed are 
 
 ## 🎓 Education
 
-**University of Florida** | *Gainesville, FL*
+**University of Florida** | *Gainesville, FL* -
 **Master of Science, Information Systems and Operations Management**
 * **Specialization:** Data Science
 * **Graduated:** December 2025
 
-**University of Florida** | *Gainesville, FL*
+**University of Florida** | *Gainesville, FL* -
 **Bachelor of Arts, Business Administration & Computer Information Science**
 * **Minor:** Computer Information Science & Engineering
 * **Graduated:** May 2024
