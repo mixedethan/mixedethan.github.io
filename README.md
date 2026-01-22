@@ -13,10 +13,7 @@
 
 ## 📖 About Me
 
-I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a background in building end-to-end machine learning pipelines. My expertise lies in converting raw, messy data into actionable competitive advantages.
-
-I thrive in high-stakes environments where precision, efficiency, and speed are the difference between winning and losing.
-
+I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
 
 ---
 
