@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="assets/headshot.JPG" width="300" height="300" alt="Ethan Wilson" style="border-radius: 50%; object-fit: cover;">
-</div>
+## Ethan Wilson
 
 ### Data Scientist | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
