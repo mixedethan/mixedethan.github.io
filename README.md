@@ -19,7 +19,7 @@ In my free time I love to fish, spend time with friends and family, and of cours
 
 ---
 
-## 🎓 Education
+## *Education*
 
 **University of Florida** | *Gainesville, FL* -
 **Master of Science, Information Systems and Operations Management**
@@ -31,34 +31,9 @@ In my free time I love to fish, spend time with friends and family, and of cours
 * **Minor:** Computer Information Science & Engineering
 * **Graduated:** May 2024
 
-
 ---
 
-## 📂 Featured Projects
-
-### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
-*Python, LightGBM, Streamlit*
-
-A machine learning application designed to act as a Virtual Defensive Coordinator. It predicts whether an offense will Run or Pass, and whether they will "Go for it" on 4th Down based on game context.
-
-* **Modeling:** Built a time-series validated "Cascade" LightGBM pipeline to predict offensive play-calling and 4th down decisions.
-* **Performance:** Achieved **70% accuracy**, outperforming the positional baseline by 12%.
-* **Deployment:** Deployed an interactive **Streamlit** web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.
-
-[FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
-
-### [Predicting CFB Wins 2025](https://github.com/mixedethan/predicting-cfb-wins-2025)
-*Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
-
-A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
-
-* **ETL Pipeline:** Built a robust automated pipeline using **BeautifulSoup** to scrape 9 years of team statistics from *cfbstats.com*, extracting 50+ raw metrics.
-* **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
-
-
----
-
-## 💼 Professional Experience
+## *Experience*
 
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](aroapp.ai)
 *Miami, FL (Remote) | July 2025 – Dec 2025*
@@ -89,9 +64,34 @@ communication skills.
   
 
 ---
+---
+
+## *Projects*
+
+### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
+*Python, LightGBM, Streamlit*
+
+A machine learning application designed to act as a Virtual Defensive Coordinator. It predicts whether an offense will Run or Pass, and whether they will "Go for it" on 4th Down based on game context.
+
+* **Modeling:** Built a time-series validated "Cascade" LightGBM pipeline to predict offensive play-calling and 4th down decisions.
+* **Performance:** Achieved **70% accuracy**, outperforming the positional baseline by 12%.
+* **Deployment:** Deployed an interactive **Streamlit** web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.
+
+[FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
+
+### [Predicting CFB Wins 2025](https://github.com/mixedethan/predicting-cfb-wins-2025)
+*Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
+
+A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
+
+* **ETL Pipeline:** Built a robust automated pipeline using **BeautifulSoup** to scrape 9 years of team statistics from *cfbstats.com*, extracting 50+ raw metrics.
+* **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
 
 
-## 📬 Contact
+---
+
+
+## 📬 *Contact*
 
 I am currently open to any and all data-related opportunities.
 
