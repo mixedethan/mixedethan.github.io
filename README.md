@@ -76,8 +76,7 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 * **Modeling:** Built a time-series validated "Cascade" LightGBM pipeline to predict offensive play-calling and 4th down decisions.
 * **Performance:** Achieved **70% accuracy**, outperforming the positional baseline by 12%.
 * **Deployment:** Deployed an interactive **Streamlit** web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.
-
-[FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
+* [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
 
 ### [Predicting CFB Wins 2025](https://github.com/mixedethan/predicting-cfb-wins-2025)
 *Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
