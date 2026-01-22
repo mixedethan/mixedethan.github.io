@@ -1,6 +1,4 @@
-## Ethan Wilson
-
-### Data Scientist | Former Division I Athlete
+## Data Scientist | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left">
