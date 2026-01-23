@@ -79,7 +79,7 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 * [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
 
 <figure>
-  <img src=assets/fourthdownio.png>
+  <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage>
   <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ A predictive modeling project forecasting College Football season outcomes using
 * **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
 
 <figure>
-  <img src=assets/cfbwins.png alt="Some text">
+  <img src="/assets/cfbwins.png" alt="Predicted win percentages">
   <figcaption class="image-caption">The predicted win percentages organized in a bar graph</figcaption>
 </figure>
 
