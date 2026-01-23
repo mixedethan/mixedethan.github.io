@@ -79,7 +79,7 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 * [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
 <img src=assets/fourthdownio.png />
 
-### [Predicting CFB Wins 2025](https://github.com/mixedethan/predicting-cfb-wins-2025)
+### [Predicting CFB Wins](https://github.com/mixedethan/predicting-cfb-wins)
 *Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
 
 A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
