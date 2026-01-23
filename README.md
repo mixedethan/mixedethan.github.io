@@ -101,9 +101,7 @@ A predictive modeling project forecasting College Football season outcomes using
 ### [Seahawks Offensive Analysis](https://github.com/mixedethan/seahawks_offensive_scout)
 *Python, Pandas, Tableau, Numpy*
 
-A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a Tableau dashboard revealing the story behind their offense, and a report summarizing the findings.
-
-* [Tableau Dashboard](https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory)
+A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a [Tableau dashboard](https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory) revealing the story behind their offense, and a report summarizing the findings.
 
 <figure>
   <img src="/assets/seahawksvisual.png" alt="Predicted win percentages">
