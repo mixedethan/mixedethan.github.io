@@ -77,8 +77,12 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 * **Performance:** Achieved **70% accuracy**, outperforming the positional baseline by 12%.
 * **Deployment:** Deployed an interactive **Streamlit** web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.
 * [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
-  
-<img src=assets/fourthdownio.png />
+
+<figure>
+  <img src=assets/fourthdownio.png>
+  <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
+</figure>
+
 
 ### [Predicting CFB Wins](https://github.com/mixedethan/predicting-cfb-wins)
 *Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
@@ -88,7 +92,11 @@ A predictive modeling project forecasting College Football season outcomes using
 * **ETL Pipeline:** Built a robust automated pipeline using **BeautifulSoup** to scrape 9 years of team statistics from *cfbstats.com*, extracting 50+ raw metrics.
 * **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
 
-<img src=assets/cfbwins.png />
+<figure>
+  <img src=assets/cfbwins.png alt="Some text">
+  <figcaption class="image-caption">The predicted win percentages organized in a bar graph</figcaption>
+</figure>
+
 
 ---
 
