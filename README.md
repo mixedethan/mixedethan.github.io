@@ -79,7 +79,7 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 * [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
 
 <figure>
-  <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage>
+  <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage">
   <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
 </figure>
 
