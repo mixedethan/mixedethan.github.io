@@ -103,11 +103,6 @@ A predictive modeling project forecasting College Football season outcomes using
 
 A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a [Tableau dashboard](https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory) revealing the story behind their offense, and a report summarizing the findings.
 
-<figure>
-  <img src="/assets/seahawksvisual.png" alt="Predicted win percentages">
-  <figcaption class="image-caption">The predicted win percentages organized in a bar graph</figcaption>
-</figure>
-
 <iframe src="/assets/seahawksreport.pdf" width="100%" height="600px">
   This browser does not support PDFs. 
   <a href="/assets/seahawksreport.pdf">Download the PDF</a>.
