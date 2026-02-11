@@ -1,4 +1,4 @@
-# Data Scientist | Former Division I Athlete
+# Data Scientist | Data Analyst | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left">
@@ -7,30 +7,6 @@
   <a href="https://public.tableau.com/app/profile/ethmwn/vizzes"><img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;
 </div>
 
-
----
-
-# 📖 About Me
-
-I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
-
-In my free time I love to fish, spend time with friends and family, and of course watch sports.
-
----
-
-# **Education**
-
-**University of Florida** | *Gainesville, FL* -
-**Master of Science, Information Systems and Operations Management**
-* **Specialization:** Data Science
-* **Graduated:** December 2025
-
-**University of Florida** | *Gainesville, FL* -
-**Bachelor of Arts, Business Administration & Computer Information Science**
-* **Minor:** Computer Information Science & Engineering
-* **Graduated:** May 2024
-
----
 
 # **Experience**
 
@@ -62,7 +38,6 @@ fostering community engagement
 communication skills.
   
 
----
 ---
 
 # **Projects**
@@ -109,6 +84,28 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
 </iframe>
 
 
+
+---
+
+# **Education**
+
+**University of Florida** | *Gainesville, FL* -
+**Master of Science, Information Systems and Operations Management**
+* **Specialization:** Data Science
+* **Graduated:** December 2025
+
+**University of Florida** | *Gainesville, FL* -
+**Bachelor of Arts, Business Administration & Computer Information Science**
+* **Minor:** Computer Information Science & Engineering
+* **Graduated:** May 2024
+
+---
+
+# 📖 About Me
+
+I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
+
+In my free time I love to fish, spend time with friends and family, and of course watch sports.
 
 ---
 
