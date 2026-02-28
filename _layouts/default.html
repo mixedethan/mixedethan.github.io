@@ -5,13 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} | {{ site.title }}</title>
-
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
   </head>
   <body>
     <div class="wrapper">
       <header>
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Headshot">
+        {% endif %}
+
+        <h1>{{ site.title }}</h1>
+
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
+
         <nav>
             <p><a href="#projects">Projects</a></p>
             <p><a href="#experience">Experience</a></p>
@@ -19,13 +32,6 @@
             <p><a href="#about">About</a></p>
             <p><a href="#contact">Contact</a></p>
         </nav>
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Headshot">
-        {% endif %}
-        <h1>{{ site.title }}</h1>
-        {% if site.description %}
-          <p>{{ site.description }}</p>
-        {% endif %}
       </header>
 
       <section>
