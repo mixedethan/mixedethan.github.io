@@ -67,6 +67,8 @@ communication skills.
 
 # **Featured Projects** <a id="projects"></a>
 
+<div class="card">
+
 ### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
 *Python, LightGBM, Streamlit*
 
@@ -82,6 +84,9 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
   <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
 </figure>
 
+</div>
+
+<div class="card">
 
 ### [Predicting CFB Wins](https://github.com/mixedethan/predicting-cfb-wins)
 *Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
@@ -96,6 +101,9 @@ A predictive modeling project forecasting College Football season outcomes using
   <figcaption class="image-caption">The predicted win percentages organized in a bar graph</figcaption>
 </figure>
 
+</div>
+
+<div class="card">
 
 ### [Seahawks Offensive Analysis](https://github.com/mixedethan/seahawks_offensive_scout)
 *Python, Pandas, Tableau, Numpy*
@@ -113,7 +121,7 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
   <figcaption class="image-caption">Tableau Storyboard for the Seahawks report.</figcaption>
 </figure>
 
-
+</div>
 
 ---
 

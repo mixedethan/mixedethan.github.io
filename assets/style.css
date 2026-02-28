@@ -11,21 +11,26 @@ header {
 }
 
 @media (min-width: 960px) {
-  header {
-    min-height: 100vh;
-  }
+  header { min-height: 100vh; }
 }
 
-a { color: #58A6FF; }
-a:hover { color: #79C0FF; }
+html { scroll-behavior: smooth; }
+
+a {
+  color: #58A6FF;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 150ms ease;
+}
+a:hover {
+  color: #79C0FF;
+  border-bottom-color: currentColor;
+}
 
 h1, h2 { letter-spacing: 0.2px; }
 h1, h2, h3, h4, h5, h6 { color: #F0F6FC; }
-
 strong, b { color: #E6EDF3; }
-
 p, li, span { color: #E6EDF3; }
-
 .image-caption, em, i { color: #9AA4B2; }
 
 header img {
@@ -34,7 +39,6 @@ header img {
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid #e6e6e6;
-  transform: none;
 }
 
 .badge-row { margin-bottom: 18px; }
@@ -51,21 +55,29 @@ h3 {
 }
 
 /* fade in animation */
-section {
-  animation: fadeUp 500ms ease-out both;
-}
-
+section { animation: fadeUp 450ms ease-out both; }
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(10px); }
-  to   { opacity: 1; transform: translateY(0); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 /* hover animation */
-figure img, .badge-row img {
+.badge-row img, figure img {
   transition: transform 180ms ease, box-shadow 180ms ease;
 }
-
-figure img:hover, .badge-row img:hover {
+.badge-row img:hover, figure img:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(0,0,0,0.25);
+  box-shadow: 0 10px 26px rgba(0,0,0,0.35);
 }
+
+
+/* cards implementation */
+.card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 14px;
+  padding: 16px 16px;
+  margin: 16px 0;
+}
+
+.card h3 { margin-top: 0.2rem; }
