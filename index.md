@@ -68,59 +68,73 @@ communication skills.
 # **Featured Projects** <a id="projects"></a>
 
 <div class="card">
-
-### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
-*Python, LightGBM, Streamlit*
-
-A machine learning application designed to act as a Virtual Defensive Coordinator. It predicts whether an offense will Run or Pass, and whether they will "Go for it" on 4th Down based on game context.
-
-* **Modeling:** Built a time-series validated "Cascade" LightGBM pipeline to predict offensive play-calling and 4th down decisions.
-* **Performance:** Achieved **70% accuracy**, outperforming the positional baseline by 12%.
-* **Deployment:** Deployed an interactive **Streamlit** web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.
-* [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
-
-<figure>
- <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage" width="560" loading="lazy">
-  <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
-</figure>
-
+  <h3>
+    <a href="https://github.com/mixedethan/run-pass-predictions" target="_blank" rel="noopener noreferrer">
+      NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")
+    </a>
+  </h3>
+  <p><em>Python, LightGBM, Streamlit</em></p>
+  <p>
+    A machine learning application designed to act as a Virtual Defensive Coordinator. It predicts whether an offense will Run or Pass, and whether they will "Go for it" on 4th Down based on game context.
+  </p>
+  <ul>
+    <li><strong>Modeling:</strong> Built a time-series validated "Cascade" LightGBM pipeline to predict offensive play-calling and 4th down decisions.</li>
+    <li><strong>Performance:</strong> Achieved <strong>70% accuracy</strong>, outperforming the positional baseline by 12%.</li>
+    <li><strong>Deployment:</strong> Deployed an interactive <strong>Streamlit</strong> web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.</li>
+    <li>
+      <a href="https://fourthdownio.streamlit.app" target="_blank" rel="noopener noreferrer">FourthDown.io Streamlit App</a>
+    </li>
+  </ul>
+  <figure>
+    <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage" width="560" loading="lazy">
+    <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
+  </figure>
 </div>
 
 <div class="card">
-
-### [Predicting CFB Wins](https://github.com/mixedethan/predicting-cfb-wins)
-*Python, Scikit-Learn, Web Scraping (BeautifulSoup)*
-
-A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
-
-* **ETL Pipeline:** Built a robust automated pipeline using **BeautifulSoup** to scrape 9 years of team statistics from *cfbstats.com*, extracting 50+ raw metrics.
-* **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
-
-<figure>
-  <img src="/assets/cfbwins.png" alt="Predicted win percentages" width="560" loading="lazy">
-  <figcaption class="image-caption">The predicted win percentages organized in a bar graph</figcaption>
-</figure>
-
+  <h3>
+    <a href="https://github.com/mixedethan/predicting-cfb-wins" target="_blank" rel="noopener noreferrer">
+      Predicting CFB Wins
+    </a>
+  </h3>
+  <p><em>Python, Scikit-Learn, Web Scraping (BeautifulSoup)</em></p>
+  <p>
+    A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
+  </p>
+  <ul>
+    <li><strong>ETL Pipeline:</strong> Built an automated pipeline using <strong>BeautifulSoup</strong> to scrape 9 years of team statistics from <em>cfbstats.com</em>, extracting 50+ raw metrics.</li>
+    <li><strong>Analysis:</strong> Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.</li>
+  </ul>
+  <figure>
+    <img src="/assets/cfbwins.png" alt="Predicted win percentages" width="560" loading="lazy">
+    <figcaption class="image-caption">Predicted win percentages organized in a bar graph</figcaption>
+  </figure>
 </div>
 
 <div class="card">
+  <h3>
+    <a href="https://github.com/mixedethan/seahawks_offensive_scout" target="_blank" rel="noopener noreferrer">
+      Seahawks Offensive Analysis
+    </a>
+  </h3>
+  <p><em>Python, Pandas, Tableau, NumPy</em></p>
+  <p>
+    A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a
+    <a href="https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory" target="_blank" rel="noopener noreferrer">
+      Tableau dashboard
+    </a>
+    revealing the story behind their offense, and a report summarizing the findings.
+  </p>
 
-### [Seahawks Offensive Analysis](https://github.com/mixedethan/seahawks_offensive_scout)
-*Python, Pandas, Tableau, Numpy*
+  <iframe src="/assets/seahawksreport.pdf" width="100%" height="360px" style="border:1px solid #ddd; border-radius:8px;">
+    This browser does not support PDFs.
+    <a href="/assets/seahawksreport.pdf" target="_blank" rel="noopener noreferrer">Download the PDF</a>.
+  </iframe>
 
-A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a [Tableau dashboard](https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory) revealing the story behind their offense, and a report summarizing the findings.
-
-
-<iframe src="/assets/seahawksreport.pdf" width="100%" height="500px" style="border:1px solid #ddd; border-radius:8px;">
-  This browser does not support PDFs. 
-  <a href="/assets/seahawksreport.pdf">Download the PDF</a>.
-</iframe>
-
-<figure>
-  <img src="/assets/seastory.png" alt="Seahawks Tableau Story" width="560" loading="lazy">
-  <figcaption class="image-caption">Tableau Storyboard for the Seahawks report.</figcaption>
-</figure>
-
+  <figure>
+    <img src="/assets/seastory.png" alt="Seahawks Tableau Story" width="560" loading="lazy">
+    <figcaption class="image-caption">Tableau Storyboard for the Seahawks report.</figcaption>
+  </figure>
 </div>
 
 ---
