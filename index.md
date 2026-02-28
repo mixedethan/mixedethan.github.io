@@ -11,7 +11,7 @@
 
 # **Experience** <a id="experience"></a>
 
-<img src="/assets/aro.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
+<img src="/assets/aro.png" alt="Aroapp.ai logo" width="100" style="float:right; margin-left:12px;">
 
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](https://aroapp.ai)
 *Miami, FL | July 2025 – Dec 2025*
