@@ -16,6 +16,11 @@
 * Implemented **NLP** techniques for feature extraction, utilizing **spaCy** for part-of-speech tagging and **sentence-transformers** to create embeddings for clustering.
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
+<iframe src="/assets/aro_prezi.pdf" width="100%" height="600px">
+  This browser does not support PDFs. 
+  <a href="/assets/aro_prezi.pdf">Download the PDF</a>.
+</iframe>
+
 ### Sales Operations Analyst Intern | **Dexian**
 *Orlando, FL | May 2024 – June 2024*
 * Engineered **SQL** queries to extract raw CRM/ATS data, identifying bottlenecks within the candidate qualification workflow to improve pipeline efficiency.
