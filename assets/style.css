@@ -1,9 +1,20 @@
 body {
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-family: "Source Sans 3", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   background: #0E1117;
   color: #E6EDF3;
 }
 
+header {
+  background: #262730;
+  padding: 24px 18px;
+  border-radius: 12px;
+}
+
+@media (min-width: 960px) {
+  header {
+    min-height: 100vh;
+  }
+}
 
 a { color: #58A6FF; }
 a:hover { color: #79C0FF; }
