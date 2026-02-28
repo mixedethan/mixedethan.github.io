@@ -5,13 +5,18 @@
   <a href="https://www.linkedin.com/in/ethan---wilson/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/mixedethan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://public.tableau.com/app/profile/ethmwn/vizzes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/ethmwn/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;
 </div>
 
 ---
 
 # **Experience** <a id="experience"></a>
 
-<img src="/assets/aro.png" alt="Aroapp.ai logo" width="100" style="float:right; margin-left:12px;">
+<a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/aro.png" alt="Aroapp.ai logo" width="100" style="float:right; margin-left:12px;">
+</a>
 
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](https://aroapp.ai)
 *Miami, FL | July 2025 – Dec 2025*
@@ -28,7 +33,9 @@
   <a href="/assets/aro_prezi.pdf" download="ARO_Presentation.pdf">Download</a>
 </div>
 
-<img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
+<a href="https://dexian.com" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
+</a>
 
 ### Sales Operations Analyst Intern | **Dexian**
 *Orlando, FL | May 2024 – June 2024*
@@ -112,18 +119,15 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
 
 # **Education** <a id="education"></a>
 
-**University of Florida** | *Gainesville, FL* -
-**Master of Science, Information Systems and Operations Management**
-* **Specialization:** Data Science
-* **Graduated:** December 2025
+## University of Florida — Gainesville, FL
+**M.S., Information Systems & Operations Management (Data Science)** — *Dec 2025*  
+Key focus: machine learning, analytics, data engineering/MLOps
 
-**University of Florida** | *Gainesville, FL* -
-**Bachelor of Arts, Business Administration & Computer Information Science**
-* **Minor:** Computer Information Science & Engineering
-* **Graduated:** May 2024
+**B.A., Business Administration & Computer Information Science** — *May 2024*  
+Minor: Computer Information Science & Engineering
 
-<div style="text-align: center;">
-  <img src="/assets/gators.gif" alt="Florida Gators" width="300">
+<div style="text-align: center; margin-top: 12px;">
+  <img src="/assets/gators.gif" alt="Florida Gators" width="220" loading="lazy">
 </div>
 
 ---
