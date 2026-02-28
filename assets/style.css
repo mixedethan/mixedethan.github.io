@@ -49,3 +49,23 @@ h3 {
   width: auto;
   height: auto;
 }
+
+/* fade in animation */
+section {
+  animation: fadeUp 500ms ease-out both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* hover animation */
+figure img, .badge-row img {
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+figure img:hover, .badge-row img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.25);
+}

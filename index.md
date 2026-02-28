@@ -2,9 +2,9 @@
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left" class="badge-row">
-  <a href="https://www.linkedin.com/in/ethan---wilson/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/mixedethan"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://public.tableau.com/app/profile/ethmwn/vizzes"><img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ethan---wilson/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/mixedethan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://public.tableau.com/app/profile/ethmwn/vizzes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;
 </div>
 
 ---
@@ -20,7 +20,7 @@
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
 <div style="text-align: center;">
-  <a href="/assets/aro_prezi.pdf">
+  <a href="/assets/aro_prezi.pdf" target="_blank" rel="noopener noreferrer">
     <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="200" loading="lazy">
   </a>
   <br>
@@ -122,6 +122,10 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
 * **Minor:** Computer Information Science & Engineering
 * **Graduated:** May 2024
 
+<div style="text-align: center;">
+  <img src="gators.gif" alt="Florida Gators" width="300">
+</div>
+
 ---
 
 # 📖 About Me <a id="about"></a>
@@ -137,4 +141,3 @@ In my free time I love to fish, spend time with friends and family, and of cours
 
 * **Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
 * **Mobile Phone:** (954)-856-9486
-
