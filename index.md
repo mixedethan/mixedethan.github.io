@@ -11,7 +11,7 @@
 
 # **Experience** <a id="experience"></a>
 
-<img src="/assets/aro_logo.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
+<img src="/assets/aro.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
 
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](https://aroapp.ai)
 *Miami, FL | July 2025 – Dec 2025*
@@ -25,7 +25,7 @@
 <br>
 <a href="/assets/aro_prezi.pdf">View PDF</a> • <a href="/assets/aro_prezi.pdf" download>Download</a>
 
-<img src="/assets/dexian.jpg" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
+<img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
 
 ### Sales Operations Analyst Intern | **Dexian**
 *Orlando, FL | May 2024 – June 2024*
@@ -40,6 +40,8 @@
 * Participated in Division I Football at the University of Florida as a defensive back.
 * Managed a 25+ hour weekly D1 athletic schedule consisting of maintaining full-time STEM graduate
 coursework and completing 20+ hours of professional development annually.
+
+<img src="/assets/lmk.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
 
 ### Lead Student Housing Leasing Agent | **Landmark Properties Inc.** 
 *Gainesville, FL | August 2021 – December 2025*
