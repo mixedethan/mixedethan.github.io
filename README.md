@@ -117,8 +117,6 @@ In my free time I love to fish, spend time with friends and family, and of cours
 
 # 📬 *Contact*
 
-I am currently open to any and all data-related opportunities.
-
-* **Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
-* **Mobile Phone:** (954)-856-9486
+**Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
+**Mobile Phone:** (954)-856-9486
 
