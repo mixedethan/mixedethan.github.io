@@ -123,7 +123,7 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
 * **Graduated:** May 2024
 
 <div style="text-align: center;">
-  <img src="gators.gif" alt="Florida Gators" width="300">
+  <img src="/assets/gators.gif" alt="Florida Gators" width="300">
 </div>
 
 ---
