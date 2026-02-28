@@ -19,11 +19,14 @@
 * Implemented **NLP** techniques for feature extraction, utilizing **spaCy** for part-of-speech tagging and **sentence-transformers** to create embeddings for clustering.
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
-<a href="/assets/aro_prezi.pdf">
-  <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="200" loading="lazy">
-</a>
-<br>
-<a href="/assets/aro_prezi.pdf">View PDF</a> • <a href="/assets/aro_prezi.pdf" download>Download</a>
+<div style="text-align: center;">
+  <a href="/assets/aro_prezi.pdf">
+    <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="200" loading="lazy">
+  </a>
+  <br>
+  <a href="/assets/aro_prezi.pdf" target="_blank" rel="noopener noreferrer">View PDF</a> • 
+  <a href="/assets/aro_prezi.pdf" download="ARO_Presentation.pdf">Download</a>
+</div>
 
 <img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
 
