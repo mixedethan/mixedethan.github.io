@@ -14,54 +14,80 @@
 
 # **Experience** <a id="experience"></a>
 
-<a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/aro.png" alt="Aroapp.ai logo" width="100" style="float:right; margin-left:12px;">
-</a>
-
-### Data Science & Machine Learning Intern | [**Aroapp.ai**](https://aroapp.ai)
-*Miami, FL | July 2025 – Dec 2025*
-* Developed an end-to-end **MLOps pipeline** to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by **60%**.
-* Implemented **NLP** techniques for feature extraction, utilizing **spaCy** for part-of-speech tagging and **sentence-transformers** to create embeddings for clustering.
-* Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
-
-<div style="text-align: center;">
-  <a href="/assets/aro_prezi.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="200" loading="lazy">
+<div class="card">
+  <a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/aro.png" alt="Aroapp.ai logo" width="100" style="float:right; margin-left:12px;">
   </a>
-  <br>
-  <a href="/assets/aro_prezi.pdf" target="_blank" rel="noopener noreferrer">View PDF</a> • 
-  <a href="/assets/aro_prezi.pdf" download="ARO_Presentation.pdf">Download</a>
+
+  <h3>
+    Data Science &amp; Machine Learning Intern |
+    <a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">Aroapp.ai</a>
+  </h3>
+  <p><em>Miami, FL | July 2025 – Dec 2025</em></p>
+
+  <ul>
+    <li>Developed an end-to-end <strong>MLOps pipeline</strong> to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by <strong>60%</strong>.</li>
+    <li>Implemented <strong>NLP</strong> techniques for feature extraction, utilizing <strong>spaCy</strong> for part-of-speech tagging and <strong>sentence-transformers</strong> to create embeddings for clustering.</li>
+    <li>Segmented clients into actionable archetypes by applying a <strong>K-Prototypes clustering</strong> algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.</li>
+  </ul>
+
+  <div style="text-align:center; margin-top:10px;">
+    <a href="/assets/aro_prezi.pdf" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="200" loading="lazy">
+    </a>
+    <br>
+    <a href="/assets/aro_prezi.pdf" target="_blank" rel="noopener noreferrer">View PDF</a> •
+    <a href="/assets/aro_prezi.pdf" download="ARO_Presentation.pdf">Download</a>
+  </div>
+
+  <div style="clear:both;"></div>
 </div>
 
-<a href="https://dexian.com" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
-</a>
+<div class="card">
+  <a href="https://dexian.com" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
+  </a>
 
-### Sales Operations Analyst Intern | **Dexian**
-*Orlando, FL | May 2024 – June 2024*
-* Engineered **SQL** queries to extract raw CRM/ATS data, identifying bottlenecks within the candidate qualification workflow to improve pipeline efficiency.
-* Designed and deployed interactive **Tableau** dashboards for the 12-person sales team, enabling real-time tracking of KPIs including daily spread, fill rates, and lead time.
-* Modeled historical recruitment data using Python (Pandas) and Excel to aggregate strategic findings into a final presentation for executive leadership.
+  <h3>Sales Operations Analyst Intern | Dexian</h3>
+  <p><em>Orlando, FL | May 2024 – June 2024</em></p>
 
-<img src="/assets/fg.png" alt="Gators logo" width="120" style="float:right; margin-left:12px;">
+  <ul>
+    <li>Engineered <strong>SQL</strong> queries to extract raw CRM/ATS data, identifying bottlenecks within the candidate qualification workflow to improve pipeline efficiency.</li>
+    <li>Designed and deployed interactive <strong>Tableau</strong> dashboards for the 12-person sales team, enabling real-time tracking of KPIs including daily spread, fill rates, and lead time.</li>
+    <li>Modeled historical recruitment data using Python (Pandas) and Excel to aggregate strategic findings into a final presentation for executive leadership.</li>
+  </ul>
 
-### Scholar-Athlete, Defensive Back | **Florida Gators Football** 🐊
-*Gainesville, FL | August 2023 – January 2025*
-* Participated in Division I Football at the University of Florida as a defensive back.
-* Managed a 25+ hour weekly D1 athletic schedule consisting of maintaining full-time STEM graduate
-coursework and completing 20+ hours of professional development annually.
+  <div style="clear:both;"></div>
+</div>
 
-<img src="/assets/lmk.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
+<div class="card">
+  <img src="/assets/fg.png" alt="Gators logo" width="120" style="float:right; margin-left:12px;">
 
-### Lead Student Housing Leasing Agent | **Landmark Properties Inc.** 
-*Gainesville, FL | August 2021 – December 2025*
-* Cultivated strong relationships with over 830 current and prospective residents, enhancing satisfaction and
-fostering community engagement
-* Implemented workflow improvements that reduced communication response time with prospective residents by
-12%, directly enhancing operational efficiency.
-* Train, supervise, and mentor community ambassadors to develop their leasing and prospecting acumen and
-communication skills.
-  
+  <h3>Scholar-Athlete, Defensive Back | Florida Gators Football</h3>
+  <p><em>Gainesville, FL | August 2023 – January 2025</em></p>
+
+  <ul>
+    <li>Participated in Division I Football at the University of Florida as a defensive back.</li>
+    <li>Managed a 25+ hour weekly D1 athletic schedule while maintaining full-time STEM graduate coursework and completing 20+ hours of professional development annually.</li>
+  </ul>
+
+  <div style="clear:both;"></div>
+</div>
+
+<div class="card">
+  <img src="/assets/lmk.png" alt="Landmark Properties logo" width="120" style="float:right; margin-left:12px;">
+
+  <h3>Lead Student Housing Leasing Agent | Landmark Properties Inc.</h3>
+  <p><em>Gainesville, FL | August 2021 – December 2025</em></p>
+
+  <ul>
+    <li>Cultivated strong relationships with over 830 current and prospective residents, enhancing satisfaction and fostering community engagement.</li>
+    <li>Implemented workflow improvements that reduced communication response time with prospective residents by 12%, directly enhancing operational efficiency.</li>
+    <li>Trained, supervised, and mentored community ambassadors to develop leasing/prospecting and communication skills.</li>
+  </ul>
+
+  <div style="clear:both;"></div>
+</div>
 
 ---
 
