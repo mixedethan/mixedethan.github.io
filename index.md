@@ -9,7 +9,7 @@
 
 ---
 
-# **Experience**
+# **Experience** <a id="experience"></a>
 
 <img src="/assets/aro_logo.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
 
@@ -20,7 +20,7 @@
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
 <a href="/assets/aro_prezi.pdf">
-  <img src="/assets/aro.png" alt="ARO presentation preview" width="520" loading="lazy">
+  <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="360" loading="lazy">
 </a>
 <br>
 <a href="/assets/aro_prezi.pdf">View PDF</a> • <a href="/assets/aro_prezi.pdf" download>Download</a>
@@ -53,7 +53,7 @@ communication skills.
 
 ---
 
-# **Featured Projects**
+# **Featured Projects** <a id="projects"></a>
 
 ### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
 *Python, LightGBM, Streamlit*
@@ -91,7 +91,7 @@ A predictive modeling project forecasting College Football season outcomes using
 A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a [Tableau dashboard](https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory) revealing the story behind their offense, and a report summarizing the findings.
 
 
-<iframe src="/assets/seahawksreport.pdf" width="100%" height="360px" style="border:1px solid #ddd; border-radius:8px;">
+<iframe src="/assets/seahawksreport.pdf" width="100%" height="500px" style="border:1px solid #ddd; border-radius:8px;">
   This browser does not support PDFs. 
   <a href="/assets/seahawksreport.pdf">Download the PDF</a>.
 </iframe>
@@ -105,7 +105,7 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
 
 ---
 
-# **Education**
+# **Education** <a id="education"></a>
 
 **University of Florida** | *Gainesville, FL* -
 **Master of Science, Information Systems and Operations Management**
@@ -119,7 +119,7 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
 
 ---
 
-# 📖 About Me
+# 📖 About Me <a id="about"></a>
 
 I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
 
@@ -128,7 +128,7 @@ In my free time I love to fish, spend time with friends and family, and of cours
 ---
 
 
-# 📬 *Contact*
+# 📬 *Contact*  <a id="contact"></a>
 
 * **Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
 * **Mobile Phone:** (954)-856-9486
