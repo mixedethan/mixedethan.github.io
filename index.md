@@ -13,16 +13,17 @@
 
 <img src="/assets/aro_logo.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
 
-### Data Science & Machine Learning Intern | [**Aroapp.ai**](aroapp.ai)
+### Data Science & Machine Learning Intern | [**Aroapp.ai**](https://aroapp.ai)
 *Miami, FL | July 2025 – Dec 2025*
 * Developed an end-to-end **MLOps pipeline** to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by **60%**.
 * Implemented **NLP** techniques for feature extraction, utilizing **spaCy** for part-of-speech tagging and **sentence-transformers** to create embeddings for clustering.
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
-<iframe src="/assets/aro_prezi.pdf" width="100%" height="600px">
-  This browser does not support PDFs. 
-  <a href="/assets/aro_prezi.pdf">Download the PDF</a>.
-</iframe>
+<a href="/assets/aro_prezi.pdf">
+  <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="520" loading="lazy">
+</a>
+<br>
+<a href="/assets/aro_prezi.pdf">View PDF</a> • <a href="/assets/aro_prezi.pdf" download>Download</a>
 
 <img src="/assets/dexian.jpg" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
 
