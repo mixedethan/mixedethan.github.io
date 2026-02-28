@@ -11,6 +11,7 @@
 # **Experience**
 
 <img src="/assets/aro_logo.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
+
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](aroapp.ai)
 *Miami, FL | July 2025 – Dec 2025*
 * Developed an end-to-end **MLOps pipeline** to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by **60%**.
@@ -22,11 +23,15 @@
   <a href="/assets/aro_prezi.pdf">Download the PDF</a>.
 </iframe>
 
+<img src="/assets/dexian.jpg" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
+
 ### Sales Operations Analyst Intern | **Dexian**
 *Orlando, FL | May 2024 – June 2024*
 * Engineered **SQL** queries to extract raw CRM/ATS data, identifying bottlenecks within the candidate qualification workflow to improve pipeline efficiency.
 * Designed and deployed interactive **Tableau** dashboards for the 12-person sales team, enabling real-time tracking of KPIs including daily spread, fill rates, and lead time.
 * Modeled historical recruitment data using Python (Pandas) and Excel to aggregate strategic findings into a final presentation for executive leadership.
+
+<img src="/assets/fg.png" alt="Gators logo" width="120" style="float:right; margin-left:12px;">
 
 ### Scholar-Athlete, Defensive Back | **Florida Gators Football** 🐊
 *Gainesville, FL | August 2023 – January 2025*
@@ -88,6 +93,11 @@ A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of 
   This browser does not support PDFs. 
   <a href="/assets/seahawksreport.pdf">Download the PDF</a>.
 </iframe>
+
+<figure>
+  <img src="/assets/seastory.png" alt="Seahawks Tableau Story">
+  <figcaption class="image-caption">Tableau Storyboard for the Seahawks report.</figcaption>
+</figure>
 
 
 
