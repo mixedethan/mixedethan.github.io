@@ -1,0 +1,32 @@
+header img {
+  width: 130px !important;
+  height: 130px !important;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #e6e6e6;
+}
+
+.badge-row {
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-top: 1.2rem;
+}
+
+.page-content img, main img, article img {
+  max-width: 560px;
+  width: 100%;
+  height: auto;
+}
+
+.image-caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 6px;
+}
+
+h1, h2 {
+  letter-spacing: 0.2px;
+}

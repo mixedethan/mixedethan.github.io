@@ -1,7 +1,7 @@
-# Data Scientist / Analyst | Former Division I Athlete
+# Data Scientist & Analyst | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
-<div align="left">
+<div align="left" class="badge-row">
   <a href="https://www.linkedin.com/in/ethan---wilson/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/mixedethan"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://public.tableau.com/app/profile/ethmwn/vizzes"><img src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;
@@ -20,7 +20,7 @@
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
 <a href="/assets/aro_prezi.pdf">
-  <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="520" loading="lazy">
+  <img src="/assets/aro.png" alt="ARO presentation preview" width="520" loading="lazy">
 </a>
 <br>
 <a href="/assets/aro_prezi.pdf">View PDF</a> • <a href="/assets/aro_prezi.pdf" download>Download</a>
@@ -37,7 +37,7 @@
 
 ### Scholar-Athlete, Defensive Back | **Florida Gators Football** 🐊
 *Gainesville, FL | August 2023 – January 2025*
-* Participated in Division I Football at the Univeristy of Florida as a defensive back.
+* Participated in Division I Football at the University of Florida as a defensive back.
 * Managed a 25+ hour weekly D1 athletic schedule consisting of maintaining full-time STEM graduate
 coursework and completing 20+ hours of professional development annually.
 
@@ -66,7 +66,7 @@ A machine learning application designed to act as a Virtual Defensive Coordinato
 * [FourthDown.io Streamlit App](https://fourthdownio.streamlit.app)
 
 <figure>
-  <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage">
+ <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage" width="560" loading="lazy">
   <figcaption class="image-caption">The homepage of FourthDown.io</figcaption>
 </figure>
 
@@ -91,13 +91,13 @@ A predictive modeling project forecasting College Football season outcomes using
 A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a [Tableau dashboard](https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory) revealing the story behind their offense, and a report summarizing the findings.
 
 
-<iframe src="/assets/seahawksreport.pdf" width="100%" height="600px">
+<iframe src="/assets/seahawksreport.pdf" width="100%" height="360px" style="border:1px solid #ddd; border-radius:8px;">
   This browser does not support PDFs. 
   <a href="/assets/seahawksreport.pdf">Download the PDF</a>.
 </iframe>
 
 <figure>
-  <img src="/assets/seastory.png" alt="Seahawks Tableau Story">
+  <img src="/assets/seastory.png" alt="Seahawks Tableau Story" width="560" loading="lazy">
   <figcaption class="image-caption">Tableau Storyboard for the Seahawks report.</figcaption>
 </figure>
 
