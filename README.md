@@ -10,6 +10,7 @@
 
 # **Experience**
 
+<img src="/assets/aro_logo.png" alt="Aroapp.ai logo" width="120" style="float:right; margin-left:12px;">
 ### Data Science & Machine Learning Intern | [**Aroapp.ai**](aroapp.ai)
 *Miami, FL | July 2025 – Dec 2025*
 * Developed an end-to-end **MLOps pipeline** to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by **60%**.
