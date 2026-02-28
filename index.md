@@ -20,7 +20,7 @@
 * Segmented clients into actionable archetypes by applying a **K-Prototypes clustering** algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.
 
 <a href="/assets/aro_prezi.pdf">
-  <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="360" loading="lazy">
+  <img src="/assets/aro_prezi_thumb.jpg" alt="ARO presentation preview" width="200" loading="lazy">
 </a>
 <br>
 <a href="/assets/aro_prezi.pdf">View PDF</a> • <a href="/assets/aro_prezi.pdf" download>Download</a>
@@ -82,7 +82,7 @@ A predictive modeling project forecasting College Football season outcomes using
 * **Analysis:** Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.
 
 <figure>
-  <img src="/assets/cfbwins.png" alt="Predicted win percentages">
+  <img src="/assets/cfbwins.png" alt="Predicted win percentages" width="560" loading="lazy">
   <figcaption class="image-caption">The predicted win percentages organized in a bar graph</figcaption>
 </figure>
 
