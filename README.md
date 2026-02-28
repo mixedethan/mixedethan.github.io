@@ -1,4 +1,4 @@
-# Data Scientist | Data Analyst | Former Division I Athlete
+# Data Scientist / Analyst | Former Division I Athlete
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left">
@@ -45,7 +45,7 @@ communication skills.
 
 ---
 
-# **Projects**
+# **Featured Projects**
 
 ### [NFL Run/Pass Prediction Engine ("Virtual Defensive Coordinator")](https://github.com/mixedethan/run-pass-predictions)
 *Python, LightGBM, Streamlit*
@@ -117,6 +117,6 @@ In my free time I love to fish, spend time with friends and family, and of cours
 
 # 📬 *Contact*
 
-**Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
-**Mobile Phone:** (954)-856-9486
+* **Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
+* **Mobile Phone:** (954)-856-9486
 
