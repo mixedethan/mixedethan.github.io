@@ -12,7 +12,7 @@
 
 ---
 
-# **Experience** <a id="experience"></a>
+# **EXPERIENCE** <a id="experience"></a>
 
 <div class="card">
   <a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">
@@ -91,7 +91,7 @@
 
 ---
 
-# **Featured Projects** <a id="projects"></a>
+# **PROJECTS** <a id="projects"></a>
 
 <div class="card">
   <h3>
@@ -165,7 +165,7 @@
 
 ---
 
-# **Education** <a id="education"></a>
+# **EDUCATION** <a id="education"></a>
 
 ## University of Florida — Gainesville, FL
 **M.S., Information Systems & Operations Management (Data Science)** — *Dec 2025*  
@@ -180,16 +180,19 @@ Minor: Computer Information Science & Engineering
 
 ---
 
-# 📖 About Me <a id="about"></a>
+# 📖 ABOUT ME <a id="about"></a>
 
-I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with a passion for converting raw, messy data into actionable competitive advantages.
+I am a Master’s graduate in Information Systems & Operations Management (Data Science focus) with an interest in extracting insights from raw, messy data. 
+My interest in the field stems from my undergraduate work in Computer Science, where I discovered my passion for building computer programs. The ability to sit down for a couple
+hours and bring something into world that didn't exist before completely captured me. However, after spending a several years in collegiate athletics witnessing the impact data
+had on the outcome of competitions, my passion evolved into something new. And now here I am, on an expedition to see how far I can push myself.
 
-In my free time I love to fish, spend time with friends and family, and of course watch sports.
+In my free time I love to fish, spend time with friends and family, and of course watch sports. Feel free to reach out to me below.
 
 ---
 
 
-# 📬 *Contact*  <a id="contact"></a>
+# 📬 *CONTACT*  <a id="contact"></a>
 
 * **Email:** [ethmwn@gmail.com](mailto:ethmwn@gmail.com)
 * **Mobile Phone:** (954)-856-9486
