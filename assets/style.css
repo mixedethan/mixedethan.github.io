@@ -82,9 +82,11 @@ section { animation: fadeUp 450ms ease-out both; }
 
 .card h3 { margin-top: 0.2rem; }
 
+/* page spacing */
 .wrapper {
   max-width: 1100px;
   width: 92%;
+  margin: 0 auto;
 }
 
 section {
