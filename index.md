@@ -98,6 +98,7 @@
 <!-- Olist Ecommerce -->
 <div class="card">
   <h3>
+    <img src="/assets/olist-trans.png" alt="Olist logo" width="120" style="float:right; margin-left:12px;">
     <a href="https://github.com/mixedethan/olist-ecommerce-analytics" target="_blank" rel="noopener noreferrer">
       Olist E-Commerce Health & Analytics
     </a>
@@ -107,19 +108,19 @@
     An end-to-end data ELT analytics pipeline (AWS S3 Bucket -> RDS PostgreSQL Database -> Tableau) whose goal is to track marketplace KPIs, track individual seller KPIs, and develop visualizations in order assess marketplace health and improve customer retention. The project produces a cleaned analytics layer as well as a "Seller Scorecard" to help idetifying under-performing sellers.
   </p>
   <ul>
-    <li><strong>Pipeline & Modeling:</strong> Ingested raw CSVs from an S3 bucket (via Python script) into a <code>staging</code> schema in PostgreSQL, then built a standardized <code>cleaning</code> cleaning schema. The data was then curated for an <code>analysis</code> layer where it was made ready for Tableau.</li>
-    <li><strong>Feature Engineering:</strong> The pipeline derives fulfillment KPIs such as <code>delivery_lead_time</code>, <code>days_late</code>, <code>is_late_delivery</code>, and <code>delivery_check</code> to quantify both seller reliability and data quality.</li>
-    <li><strong>Seller KPIs:</strong> Built a seller KPI view (<code>analysis.seller_kpis</code>) to avoid item-level duplication and calculate review quality, 1-star rate, and late delivery rate per seller.</li>
-    <li><strong>Marketplace Monitoring:</strong> Created a monthly marketplace health time series view (<code>analysis.marketplace_health_monthly</code>) which tracks orders, review score, late delivery rate, not delivered rate, and data errors.</li>
+    <li><strong>Pipeline & Modeling:</strong> Ingested raw CSVs from an S3 bucket (via Python script) into a <i>staging</i> schema in PostgreSQL, then built a standardized <i>cleaning</i> cleaning schema. The data was then curated for an <i>analysis</i> layer where it was made ready for Tableau.</li>
+    <li><strong>Feature Engineering:</strong> The pipeline derives fulfillment KPIs such as <i>delivery_lead_time</i>, <i>days_late</i>, <i>is_late_delivery</i>, and <i>delivery_check</i> to quantify both seller reliability and data quality.</li>
+    <li><strong>Seller KPIs:</strong> Built a seller KPI view (<i>analysis.seller_kpis</i>) to avoid item-level duplication and calculate review quality, 1-star rate, and late delivery rate per seller.</li>
+    <li><strong>Marketplace Monitoring:</strong> Created a monthly marketplace health time series view (<i>analysis.marketplace_health_monthly</i>) which tracks orders, review score, late delivery rate, not delivered rate, and data errors.</li>
   </ul>
 
   <figure>
-    <img src="/assets/seller_scorecard.png" alt="Seller Scorecard" width="700" loading="lazy">
+    <img src="/assets/seller_scorecard.png" alt="Seller Scorecard" width="900" loading="lazy">
     <figcaption class="image-caption">A Seller Scorecard dashboard providing an overview of Seller performance on the Olist e-commerce platform.</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/market_health.png" alt="Market Health Dashboard" width="700" loading="lazy">
+    <img src="/assets/market_health.png" alt="Market Health Dashboard" width="900" loading="lazy">
     <figcaption class="image-caption">A Market Health Time-Series dashboard detailing the monthly KPIs to be monitored.</figcaption>
   </figure>
 
