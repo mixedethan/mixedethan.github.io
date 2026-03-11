@@ -12,8 +12,10 @@
 
 ---
 
+<!-- EXPERIENCE -->
 # **EXPERIENCE** <a id="experience"></a>
 
+<!-- Aro -->
 <div class="card">
   <a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">
     <img src="/assets/aro.png" alt="Aroapp.ai logo" width="100" style="float:right; margin-left:12px;">
@@ -43,6 +45,7 @@
   <div style="clear:both;"></div>
 </div>
 
+<!-- Dexian -->
 <div class="card">
   <a href="https://dexian.com" target="_blank" rel="noopener noreferrer">
     <img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
@@ -61,6 +64,7 @@
   <div style="clear:both;"></div>
 </div>
 
+<!-- Florida Futbol -->
 <div class="card">
   <img src="/assets/fg.png" alt="Gators logo" width="120" style="float:right; margin-left:12px;">
 
@@ -80,6 +84,7 @@
   <div style="clear:both;"></div>
 </div>
 
+<!-- Landmark Properties -->
 <div class="card">
   <img src="/assets/lmk.png" alt="Landmark Properties logo" width="120" style="float:right; margin-left:12px;">
 
@@ -98,6 +103,7 @@
 
 ---
 
+<!-- PROJECTS -->
 # **PROJECTS** <a id="projects"></a>
 
 <!-- Olist Ecommerce -->
@@ -120,12 +126,12 @@
   </ul>
 
   <figure>
-    <img src="/assets/seller_scorecard.png" alt="Seller Scorecard" width="900" loading="lazy">
+    <img src="/assets/seller_scorecard.png" alt="Seller Scorecard" width="1100" loading="lazy">
     <figcaption class="image-caption">A Seller Scorecard dashboard providing an overview of Seller performance on the Olist e-commerce platform.</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/market_health.png" alt="Market Health Dashboard" width="900" loading="lazy">
+    <img src="/assets/market_health.png" alt="Market Health Dashboard" width="1100" loading="lazy">
     <figcaption class="image-caption">A Market Health Time-Series dashboard detailing the monthly KPIs to be monitored.</figcaption>
   </figure>
 
@@ -206,6 +212,7 @@
 
 ---
 
+<!-- EDUCATION -->
 # **EDUCATION** <a id="education"></a>
 
 ## University of Florida — Gainesville, FL
