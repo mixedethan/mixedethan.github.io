@@ -246,16 +246,24 @@ In my free time I love to fish, spend time with friends and family, and of cours
 * **Mobile Phone:** (954)-856-9486
 
 <!-- lightbox -->
-<div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.85); z-index:9999; justify-content:center; align-items:center;" onclick="this.style.display='none'">
-  <img id="lightbox-img" style="max-width:90%; max-height:90%; border-radius:8px;">
+<div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.85); z-index:9999; justify-content:center; align-items:center;" onclick="this.style.display='none'">
+  <img id="lightbox-img" style="max-width:90vw !important; max-height:90vh !important; width:auto !important; height:auto !important; border-radius:8px; box-shadow: 0 20px 60px rgba(0,0,0,0.5);">
 </div>
 
 <script>
   document.querySelectorAll('figure img').forEach(img => {
     img.style.cursor = 'zoom-in';
     img.addEventListener('click', () => {
-      document.getElementById('lightbox-img').src = img.src;
-      document.getElementById('lightbox').style.display = 'flex';
+      const lb = document.getElementById('lightbox');
+      const lbImg = document.getElementById('lightbox-img');
+      lbImg.src = img.src;
+      lb.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
     });
+  });
+
+  document.getElementById('lightbox').addEventListener('click', function() {
+    this.style.display = 'none';
+    document.body.style.overflow = '';
   });
 </script>
