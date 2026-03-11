@@ -87,17 +87,27 @@ header img {
   border: 3px solid #e6e6e6;
 }
 
-section {
+section,
+section.main-content {
   flex: 1;
-  padding: 0 40px;
-  box-sizing: border-box;
+  max-width: calc(100vw - 320px);
   min-width: 0;
   overflow: hidden;
-
+  padding: 0 40px;
+  box-sizing: border-box;
 }
 
 @media (max-width: 960px) {
-  .wrapper { flex-direction: column; }
-  header { width: 100%; min-height: unset; }
-  section { padding: 0 16px; }
+  .wrapper {
+    flex-direction: column;
+  }
+  header {
+    width: 100%;
+    min-height: unset;
+  }
+  section,
+  section.main-content {
+    max-width: none;
+    padding: 0 16px;
+  }
 }
