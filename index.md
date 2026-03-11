@@ -82,7 +82,7 @@
   <img src="/assets/lmk.png" alt="Landmark Properties logo" width="120" style="float:right; margin-left:12px;">
 
   <h3>Lead Student Housing Leasing Agent | 
-  <a href="https://https://www.landmarkproperties.com/" target="_blank" rel="noopener noreferrer">Landmark Properties Inc.</a></h3>
+  <a href="https://www.landmarkproperties.com/" target="_blank" rel="noopener noreferrer">Landmark Properties Inc.</a></h3>
   <p><em>Gainesville, FL | August 2021 – December 2025</em></p>
 
   <ul>
