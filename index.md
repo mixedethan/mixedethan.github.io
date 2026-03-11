@@ -72,9 +72,9 @@
     <li>Participated in Division I Football at the University of Florida as a defensive back.</li>
     <li>Managed a 25+ hour weekly D1 athletic schedule while maintaining full-time STEM graduate coursework and completing 20+ hours of professional development annually.</li>
   </ul>
-  
-  <figure>
-    <img src="/assets/run.jpg" alt="football photo" width="200" class="center-img" loading="lazy">
+
+  <figure style ="text-align: center;">
+    <img src="/assets/run.jpg" alt="football photo" width="200" loading="lazy">
   </figure>
 
   <div style="clear:both;"></div>
