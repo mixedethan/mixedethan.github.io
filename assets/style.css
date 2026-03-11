@@ -49,7 +49,7 @@ h3 {
 }
 
 .page-content img, main img, article img {
-  max-width: 560px;
+  max-width: 100%;
   width: auto;
   height: auto;
 }
@@ -78,6 +78,9 @@ section { animation: fadeUp 450ms ease-out both; }
   border-radius: 14px;
   padding: 16px 16px;
   margin: 16px 0;
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .card h3 { margin-top: 0.2rem; }
