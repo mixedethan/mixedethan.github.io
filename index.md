@@ -73,7 +73,7 @@
     <li>Managed a 25+ hour weekly D1 athletic schedule while maintaining full-time STEM graduate coursework and completing 20+ hours of professional development annually.</li>
   </ul>
   <figure>
-    <img src="/assets/run.jpg" alt="football photo" width="200" loading="lazy">
+    <img src="/assets/run.jpg" alt="football photo" width="200" style="text-align:center; margin-top:10px;" loading="lazy">
   </figure>
   <div style="clear:both;"></div>
 </div>
