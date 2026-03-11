@@ -29,12 +29,14 @@ h3 {
   width: auto;
   height: auto;
 }
+
 /* fade in animation */
 section { animation: fadeUp 450ms ease-out both; }
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
 /* hover animation */
 .badge-row img, figure img {
   transition: transform 180ms ease, box-shadow 180ms ease;
@@ -43,6 +45,7 @@ section { animation: fadeUp 450ms ease-out both; }
   transform: translateY(-2px);
   box-shadow: 0 10px 26px rgba(0,0,0,0.35);
 }
+
 /* cards */
 .card {
   background: rgba(255,255,255,0.03);
@@ -54,6 +57,7 @@ section { animation: fadeUp 450ms ease-out both; }
   box-sizing: border-box;
 }
 .card h3 { margin-top: 0.2rem; }
+
 /* layout */
 .wrapper {
   display: flex;
@@ -61,6 +65,7 @@ section { animation: fadeUp 450ms ease-out both; }
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
+  overflow: hidden;
 }
 header {
   width: 280px;
