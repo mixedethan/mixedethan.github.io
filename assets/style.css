@@ -3,12 +3,19 @@ body {
   background: #0E1117;
   color: #E6EDF3;
 }
+
 header {
   background: #262730;
   padding: 24px 18px;
   border-radius: 12px;
 }
+
+@media (min-width: 960px) {
+  header { min-height: 100vh; }
+}
+
 html { scroll-behavior: smooth; }
+
 a {
   color: #58A6FF;
   text-decoration: none;
@@ -19,11 +26,13 @@ a:hover {
   color: #79C0FF;
   border-bottom-color: currentColor;
 }
+
 h1, h2 { letter-spacing: 0.2px; }
 h1, h2, h3, h4, h5, h6 { color: #F0F6FC; }
 strong, b { color: #E6EDF3; }
 p, li, span { color: #E6EDF3; }
 .image-caption, em, i { color: #9AA4B2; }
+
 header img {
   width: 250px;
   height: 250px;
@@ -31,22 +40,28 @@ header img {
   border-radius: 50%;
   border: 3px solid #e6e6e6;
 }
+
 .badge-row { margin-bottom: 18px; }
+
 h3 {
   font-size: 1.25rem;
   margin-top: 1.2rem;
 }
+
 .page-content img, main img, article img {
   max-width: 100%;
   width: auto;
   height: auto;
 }
+
+
 /* fade in animation */
 section { animation: fadeUp 450ms ease-out both; }
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
 /* hover animation */
 .badge-row img, figure img {
   transition: transform 180ms ease, box-shadow 180ms ease;
@@ -55,34 +70,24 @@ section { animation: fadeUp 450ms ease-out both; }
   transform: translateY(-2px);
   box-shadow: 0 10px 26px rgba(0,0,0,0.35);
 }
-/* cards */
+
+
+/* cards implementation */
 .card {
   background: rgba(255,255,255,0.03);
   border: 1px solid rgba(255,255,255,0.10);
   border-radius: 14px;
-  padding: 16px 24px;
+  padding: 16px 16px;
   margin: 16px 0;
+  max-width: 100%;
   width: 100%;
   box-sizing: border-box;
 }
+
 .card h3 { margin-top: 0.2rem; }
-/* wrapper override */
-.wrapper {
-  max-width: none !important;
-  width: 100% !important;
-  padding: 0 !important;
-}
-/* single consolidated media query */
+
+
 @media (min-width: 960px) {
-  header {
-    width: 280px;
-    min-height: 100vh;
-  }
-  section,
-  section.main-content {
-    margin-left: 320px !important;
-    max-width: calc(100vw - 380px) !important;
-    padding: 0 40px !important;
-    box-sizing: border-box !important;
-  }
+  header { width: 280px; }
+  section { margin-left: 320px; }
 }
