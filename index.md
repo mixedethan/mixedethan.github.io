@@ -65,7 +65,7 @@
   <img src="/assets/fg.png" alt="Gators logo" width="120" style="float:right; margin-left:12px;">
 
   <h3>Scholar-Athlete, Defensive Back | 
-  <a href="https://https://floridagators.com/sports/football/roster/ethan-wilson/16744" target="_blank" rel="noopener noreferrer">Florida Gators Football</a> </h3>
+  <a href="https://floridagators.com/sports/football/roster/ethan-wilson/16744" target="_blank" rel="noopener noreferrer">Florida Gators Football</a> </h3>
   <p><em>Gainesville, FL | August 2023 – January 2025</em></p>
 
   <ul>
