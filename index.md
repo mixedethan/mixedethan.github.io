@@ -1,4 +1,4 @@
-# Data Scientist & Analyst | Former Division I Athlete
+# Data Scientist & Analyst | M.S. University of Florida
 *Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left" class="badge-row">
