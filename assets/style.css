@@ -54,6 +54,12 @@ h3 {
   height: auto;
 }
 
+/* override jekyll theme's container */
+.page-content, .wrapper {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+
 /* fade in animation */
 section { animation: fadeUp 450ms ease-out both; }
 @keyframes fadeUp {
