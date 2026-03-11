@@ -93,21 +93,23 @@ section { animation: fadeUp 450ms ease-out both; }
 }
 
 /* page width test */
-.page-content,
-.post-content,
-.wrapper,
-.site-content,
-.content {
+.wrapper {
   max-width: none !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+section.main-content {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 40px !important;
+  box-sizing: border-box;
 }
 
 @media (min-width: 960px) {
-  section {
+  section.main-content {
     margin-left: 320px;
-    padding: 0 40px;
-    max-width: calc(100vw - 360px);
-    box-sizing: border-box;
+    padding: 0 40px !important;
+    max-width: calc(100vw - 380px) !important;
   }
 }
