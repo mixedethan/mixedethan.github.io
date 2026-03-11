@@ -91,3 +91,23 @@ section { animation: fadeUp 450ms ease-out both; }
   header { width: 280px; }
   section { margin-left: 320px; }
 }
+
+/* page width test */
+.page-content,
+.post-content,
+.wrapper,
+.site-content,
+.content {
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+@media (min-width: 960px) {
+  section {
+    margin-left: 320px;
+    padding: 0 40px;
+    max-width: calc(100vw - 360px);
+    box-sizing: border-box;
+  }
+}
