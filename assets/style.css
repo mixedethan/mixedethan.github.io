@@ -88,6 +88,8 @@ section {
   padding: 0 40px;
   box-sizing: border-box;
   min-width: 0;
+  overflow: hidden;
+
 }
 @media (max-width: 960px) {
   .wrapper { flex-direction: column; }
