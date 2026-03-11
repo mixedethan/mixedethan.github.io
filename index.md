@@ -48,7 +48,8 @@
     <img src="/assets/dexian.png" alt="Dexian logo" width="120" style="float:right; margin-left:12px;">
   </a>
 
-  <h3>Sales Operations Analyst Intern | Dexian</h3>
+  <h3>Sales Operations Analyst Intern | 
+  <a href="https://dexian.com" target="_blank" rel="noopener noreferrer">Dexian</a></h3>
   <p><em>Orlando, FL | May 2024 – June 2024</em></p>
 
   <ul>
@@ -63,7 +64,8 @@
 <div class="card">
   <img src="/assets/fg.png" alt="Gators logo" width="120" style="float:right; margin-left:12px;">
 
-  <h3>Scholar-Athlete, Defensive Back | Florida Gators Football</h3>
+  <h3>Scholar-Athlete, Defensive Back | 
+  <a href="https://https://floridagators.com/sports/football/roster/ethan-wilson/16744" target="_blank" rel="noopener noreferrer">Florida Gators Football</a> </h3>
   <p><em>Gainesville, FL | August 2023 – January 2025</em></p>
 
   <ul>
@@ -79,7 +81,8 @@
 <div class="card">
   <img src="/assets/lmk.png" alt="Landmark Properties logo" width="120" style="float:right; margin-left:12px;">
 
-  <h3>Lead Student Housing Leasing Agent | Landmark Properties Inc.</h3>
+  <h3>Lead Student Housing Leasing Agent | 
+  <a href="https://https://www.landmarkproperties.com/" target="_blank" rel="noopener noreferrer">Landmark Properties Inc.</a></h3>
   <p><em>Gainesville, FL | August 2021 – December 2025</em></p>
 
   <ul>
