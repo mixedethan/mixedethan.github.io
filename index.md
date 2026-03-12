@@ -84,7 +84,7 @@
   <p>Participated as a Division I Student-Athlete at the University of Florida as a defensive back while also working a part-time job and completing a full-time STEM graduate program. Developed the discipline, coachability, high work ethic required to manage both atheletic and academical demands simultaneously.</p>
   <ul>
     <li>Competed as a defensive back in the SEC while managing a 25+ hour weekly D1 athletic schedule of practice, film study, and conditioning year round.</li>
-    <li>Mainted a full-time graduate workload in Data Science with a 3.5 GPA while also completing an internship and 20+ hours of professional development annually.
+    <li>Mainted a full-time graduate workload in Data Science with a 3.5 GPA while also completing an internship and 20+ hours of professional development annually.</li>
     <li>Contributed 10+ hours a month providing volunteer service to the Gainesville community, including tutoring and mentoring children at local elementary schools and participating in home building programs.</li>
   </ul>
 
