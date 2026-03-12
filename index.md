@@ -190,15 +190,21 @@
       Seahawks Offensive Analysis
     </a>
   </h3>
-  <p><em>Python, Pandas, Tableau, NumPy</em></p>
+  <p><em>Python, Pandas, NumPy, Tableau, nflreadpy</em></p>
   <p>
-    A comprehensive offensive scouting notebook on the 2025 Seattle Seahawks (as of Week 8), a
-    <a href="https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory" target="_blank" rel="noopener noreferrer">
-      Tableau dashboard
-    </a>
-    revealing the story behind their offense, and a report summarizing the findings.
+    A comprehensive <a href="https://public.tableau.com/app/profile/ethmwn/viz/seahawks_offense_analysis/OverviewStory" target="_blank" rel="noopener noreferrer">
+      data-driven report
+    </a> on the 2025 Seattle Seahawks (Weeks 1-7), uncovering how their offense operates and relies on a run heavy early down identity to later setup their deepshot playaction passes. The project goes into detail on what happens when that script breaks down and also how their star WR J. Smith-Njigba fits into their scheme.
   </p>
 
+  <ul>
+    <li><strong>Play-Action Analysis:</strong> Identified that the Seahawks' play=action passes generate 0.57 EPA/play vs 0.05 EPA/play on standard dropbacks which reveals a 11.5x efficiency gap.
+    </li>
+    <li><strong>Cardinals Case Study:</strong> Analyzed the Week 4 Arizona Cardinals game to erxtract defensive strategies that helped neutralize the Seahawks' offense, reducing PA effectiveness from 0.57 to -0.02 EPA by bracketing JSN and an 83% blitz rate.
+    </li>
+    <li><strong>Visualizations:</strong> Exported the cleaned play-by-play data to Tableau in order to build an interactive storyboard dashboard summarizing both offensive tendencies and player performance.
+    </li>
+  </ul>
   <iframe src="/assets/seahawksreport.pdf" width="100%" height="360px" style="border:1px solid #ddd; border-radius:8px;">
     This browser does not support PDFs.
     <a href="/assets/seahawksreport.pdf" target="_blank" rel="noopener noreferrer">Download the PDF</a>.
