@@ -80,11 +80,11 @@ header img {
 }
 
 section {
-  margin-left: 290px !important;
-  padding: 0 40px !important;
-  box-sizing: border-box !important;
-  max-width: calc(100vw - 290px) !important;
-  width: calc(100vw - 290px) !important;
+  margin-left: 320px;
+  padding: 0 40px;
+  box-sizing: border-box;
+  width: auto;
+  max-width: none;
 }
 
 @media (max-width: 960px) {
