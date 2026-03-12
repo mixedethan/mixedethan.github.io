@@ -80,11 +80,11 @@
   <h3>Scholar-Athlete, Defensive Back | 
   <a href="https://floridagators.com/sports/football/roster/ethan-wilson/16744" target="_blank" rel="noopener noreferrer">Florida Gators Football</a> </h3>
   <p><em>Gainesville, FL | August 2023 – January 2025</em></p>
-  <p>Participated as a Division I Student-Athlete at the University of Florida as a defensive back while also working a part-time job and completing a full-time STEM graduate program. Developed the discipline, coachability, high work ethic required to manage both atheletic and academical demands simultaneously.</p>
+  <p>Participated as a <i>Division I Student-Athlete</i> at the University of Florida as a defensive back while also working a part-time job and completing a full-time STEM graduate program. Developed the discipline, coachability, high work ethic required to manage both atheletic and academical demands simultaneously.</p>
   <ul>
-    <li>Competed as a defensive back in the SEC while managing a 25+ hour weekly D1 athletic schedule of practice, film study, and conditioning year round.</li>
-    <li>Mainted a full-time graduate workload in Data Science with a 3.5 GPA while also completing an internship and 20+ hours of professional development annually.</li>
-    <li>Contributed 10+ hours a month providing volunteer service to the Gainesville community, including tutoring and mentoring children at local elementary schools and participating in home building programs.</li>
+    <li>Competed as a defensive back in the SEC while managing a <i>25+ hour weekly</i> D1 athletic schedule of practice, film study, and conditioning year round.</li>
+    <li>Mainted a full-time graduate workload in Data Science with a <i>3.5 GPA</i> while also completing an <i>internship</i> and <i>20+</i> hours of professional development annually.</li>
+    <li>Contributed <i>10+ hours</i> a month providing volunteer service to the Gainesville community, including tutoring and mentoring children at local elementary schools and participating in home building programs.</li>
   </ul>
 
   <figure style ="text-align: center;">
