@@ -34,9 +34,9 @@
     </li>
     <li><strong>Feature Engineering & Clustering:</strong> Utilized <i>TF-IDF</i> for keyword importance and <i>sentence-transformers</i> for semantic similarity to encode across 600+ features, then reduces to 387 components via <i>PCA</i>. Optimized <i>K-Means clustering</i> to K=4 archetypes using silhouette score analysis, creating 4 well separated and unique restaurant segments.
     </li>
-    <li><strong>LLM Event Generation:</strong> Built a two-stage GPT-4-turbo pipeline that first research current trends within the Miami area for each archetype, then generated 4-5 unique and feasible event ideas with titles, strategies, timing, and trend references.
+    <li><strong>LLM Event Generation:</strong> Built a two-stage <i>GPT-4-turbo pipeline</i> that first research current trends within the Miami area for each archetype, then generated 4-5 unique and feasible event ideas with titles, strategies, timing, and trend references.
     </li>
-    <li><strong>Reviewer Model & Feedback Loop:</strong> Tuned a DistilBERT classifier on team feedback (1-5 star ratings on the event ideas mapped to poor/neutral/good) to score and filter the LLM-generated recommendations. The feedback loop consits of automated feedback collection via Mailgun HTML emails which routes the team's feedback back into the reviewer model's training pipeline for continuous quality improvement.
+    <li><strong>Reviewer Model & Feedback Loop:</strong> Tuned a <i>>istilBERT classifier</i> on team feedback (1-5 star ratings on the event ideas mapped to poor/neutral/good) to score and filter the LLM-generated recommendations. The feedback loop consits of automated feedback collection via Mailgun HTML emails which routes the team's feedback back into the reviewer model's training pipeline for continuous quality improvement.
     </li>
   </ul>
 
@@ -62,13 +62,12 @@
   <a href="https://dexian.com" target="_blank" rel="noopener noreferrer">Dexian</a></h3>
   <p><em>Orlando, FL | May 2024 – June 2024</em></p>
   <p>
-  A sales operations internship within a Dexian staffing and recruiting office where I supported a 12-person sales team by extracting insights from raw Bullhorn <i>CRM/ATS</i> data to track recruiter performance, identify workflow inefficiences, and report pipeline bottlenecks.
+  A sales operations internship within a Dexian staffing and recruiting office where I supported a 12-person sales team by extracting insights from raw <i>Bullhorn CRM/ATS</i> data to track recruiter performance, identify workflow inefficiences, and report pipeline bottlenecks.
   </p>
   <ul>
-    <li>Engineered <i>SQL</i> queries from Bullhorn's raw CRM/ATS data to extract recruiter activity, candidate pipeline stages, and submission to placement conversion rates, identifying bottlenecks within the candidate qualification process.</li>
+    <li>Engineered <i>SQL</i> queries from Bullhorn's raw <i>CRM/ATS</i> data to extract recruiter activity, candidate pipeline stages, and submission to placement conversion rates, identifying bottlenecks within the candidate qualification process.</li>
     <li>Designed and deployed interactive <i>Tableau</i> dashboards for the 12-person sales team, allwoing for real-time tracking of <i>KPIs</i> including daily spread, fill rates, and lead time.</li>
-    <li>Modeled historical recruitment data using <i>Python (Pandas)
-    </i> and Excel to translate raw CRM data into actionable recommendation for a final presentation to executive leadership.</li>
+    <li>Modeled historical recruitment data using <i>Python (Pandas)</i> and <i>Excel</i> to translate raw CRM data into actionable recommendation for a final presentation to executive leadership.</li>
   </ul>
 
   <div style="clear:both;"></div>
@@ -103,13 +102,13 @@
   <a href="https://www.landmarkproperties.com/" target="_blank" rel="noopener noreferrer">Landmark Properties Inc.</a></h3>
   <p><em>Gainesville, FL | August 2021 – December 2025</em></p>
   <p>
-  A four year tenure as a Lead Leasing agent across three Landmark Properties student housing communities in Gainesville, FL including an essential role in helping launch a brand new property from scratch. Balanced a high-volume sales and customer service role with full-time undergraduate and graduate coursework along with D1 athletics.
+  A <i>four year tenure</i> as a Lead Leasing agent across three Landmark Properties student housing communities in Gainesville, FL including an essential role in helping launch a brand new property from scratch. Balanced a <i>high-volume sales</i> and <i>customer service</i> role with full-time undergraduate and graduate coursework along with D1 athletics.
   </p>
   <ul>
-    <li>Served as the first point of contact for over 4400+ residents over four years guiding tours, managing the full leasing pipeline from intial contact to signed lease, and performing daily follow-up via phone and text to maintain pipeline momentum.</li>
+    <li>Served as the first point of contact for over <i>4400+</i> residents over four years guiding tours, managing the full leasing pipeline from intial contact to signed lease, and performing daily follow-up via phone and text to maintain pipeline momentum.</li>
     <li>Led a mentored a team of 5-6 leasing agent across daily operations, training on staff on communication etiquette, prospect techniques, and tour delivery.</li>
-    <li>Temporarily deployed to the largest Landmark property in Gainesville with over 1600 residents to support their annual unit turnover due to demonstrated ability. Worked 60+ hour weeks to help coordinate apartment cleaning, maintenance, and move in workflows.</li>
-    <li>Implemented automated communication workflows that reduced prospect response time by 12% essentially streamlining front desk communications allowing for more time to be spent on people facing tasks.</li>
+    <li>Temporarily deployed to the largest Landmark property in Gainesville with over 1600 residents to support their annual unit turnover due to demonstrated ability. Worked <i>60+</i> hour weeks to help coordinate apartment cleaning, maintenance, and move in workflows.</li>
+    <li>Implemented <i>automated</i> communication workflows that reduced prospect response time by 12% essentially streamlining front desk communications allowing for more time to be spent on people facing tasks.</li>
   </ul>
 
   <div style="clear:both;"></div>
