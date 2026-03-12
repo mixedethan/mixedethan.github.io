@@ -20,6 +20,25 @@ a:hover {
   color: #79C0FF;
   border-bottom-color: currentColor;
 }
+
+/* navigation style */
+nav {
+  margin-top: 24px;
+}
+nav p {
+  margin: 12px 0;
+}
+nav a {
+  font-size: 1.1rem;
+  padding: 10px 12px;
+  display: block;
+  border-radius: 6px;
+  transition: background-color 150ms ease;
+}
+nav a:hover {
+  background-color: rgba(88, 166, 255, 0.15);
+}
+
 h1, h2 { letter-spacing: 0.2px; }
 h1, h2, h3, h4, h5, h6 { color: #F0F6FC; }
 strong, b { color: #E6EDF3; }
@@ -80,10 +99,9 @@ header {
   overflow: hidden;
 }
 
-
 section {
   margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
-  padding: 0 20px;
+  padding: 0 10px;
   box-sizing: border-box;
   width: auto;
   max-width: none;
@@ -96,8 +114,6 @@ header img {
   border-radius: 50%;
   border: 3px solid #e6e6e6;
 }
-
-
 
 @media (max-width: 960px) {
   header {
