@@ -145,16 +145,14 @@
     </a>
   </h3>
   <p><em>Python, LightGBM, Streamlit</em></p>
+  <a href="https://fourthdownio.streamlit.app" target="_blank" rel="noopener noreferrer">FourthDown.io Web App</a>
   <p>
-    A machine learning application designed to act as a Virtual Defensive Coordinator. It predicts whether an offense will Run or Pass, and whether they will "Go for it" on 4th Down based on game context.
+    Developed a machine learning pipeline that predicts NFL offensive play-calling decisions by using historical play-by-play data. The project includes building end-to-end data infrastructure, from extracting and preprocesssing real-time game situations to training multiple <i>LightGBM</i> classification models for various situations. The engine takes in factors such as down, distance, field position, and game dynamics to develop probability distributions for play-calliung outcomes and uses <i>SHAP</i> to provide interpretable insights.
   </p>
   <ul>
-    <li><strong>Modeling:</strong> Built a time-series validated "Cascade" LightGBM pipeline to predict offensive play-calling and 4th down decisions.</li>
-    <li><strong>Performance:</strong> Achieved <strong>70% accuracy</strong>, outperforming the positional baseline by 12%.</li>
-    <li><strong>Deployment:</strong> Deployed an interactive <strong>Streamlit</strong> web app allowing users to simulate "Defensive Coordinator" situations with live probability calibration.</li>
-    <li>
-      <a href="https://fourthdownio.streamlit.app" target="_blank" rel="noopener noreferrer">FourthDown.io Streamlit App</a>
-    </li>
+    <li><strong>Data Pipeline:</strong> Automated data ingestion, cleaning, and feature engineering for 15+ years of NFL play-by-play data with special handling of garbage time scenarios.</li>
+    <li><strong>Dual Predictive Models:</strong> Seperate predictive models for regular play-calling (Run/Pass) and 4th down decisions (Go/Kick). Both used <i>LightGBM</i> with <i>time-series validation</i>.</li>
+    <li><strong>SHAP:</strong> Integrated <i>Shapley values</i> to provide explainable predictions which reveals feature importance and decision thresholds for coaching strategies.</li>
   </ul>
   <figure>
     <img src="/assets/fourthdownio.png" alt="FourthDown.io homepage" width="560" loading="lazy">
