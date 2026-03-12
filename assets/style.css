@@ -7,7 +7,7 @@ html { scroll-behavior: smooth; }
 
 :root {
   --sidebar-w: 280px;
-  --sidebar-gap: 40px;
+  --sidebar-gap: 16px;
 }
 
 a {
