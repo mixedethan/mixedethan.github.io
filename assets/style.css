@@ -83,7 +83,7 @@ header {
 
 section {
   margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
-  padding: 0 40px;
+  padding: 0 20px;
   box-sizing: border-box;
   width: auto;
   max-width: none;

@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: sidebar gap 16
+title: section paddin 20
 logo: assets/headshot_v2.JPG
 show_downloads: false
 css: /assets/style.css
