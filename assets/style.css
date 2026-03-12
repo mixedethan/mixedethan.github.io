@@ -8,19 +8,24 @@ body {
   color: #E6EDF3;
 }
 
+/* smooth scroll */
 html { scroll-behavior: smooth; }
+
 
 :root {
   --sidebar-w: 280px;
   --sidebar-gap: 16px;
 }
 
+/* link style */
 a {
   color: #58A6FF;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: border-color 150ms ease;
 }
+
+/* link hover */
 a:hover {
   color: #79C0FF;
   border-bottom-color: currentColor;
@@ -30,9 +35,11 @@ a:hover {
 nav {
   margin-top: 24px;
 }
+
 nav p {
   margin: 12px 0;
 }
+
 nav a {
   font-size: 1.1rem;
   padding: 10px 12px;
@@ -40,10 +47,12 @@ nav a {
   border-radius: 6px;
   transition: background-color 150ms ease;
 }
+
 nav a:hover {
   background-color: rgba(88, 166, 255, 0.15);
 }
 
+/* headings and subheadings */
 h1, h2 { letter-spacing: 0.2px; }
 h1, h2, h3, h4, h5, h6 { color: #F0F6FC; }
 strong, b { color: #E6EDF3; }
@@ -54,6 +63,8 @@ h3 {
   font-size: 1.25rem;
   margin-top: 1.2rem;
 }
+
+/* images */
 .page-content img, main img, article img {
   max-width: 100%;
   width: auto;
@@ -83,7 +94,7 @@ section { animation: fadeUp 450ms ease-out both; }
   border-radius: 14px;
   padding: 16px 24px;
   margin: 16px 0;
-  width: 100%;
+  width: 120%; /* trying to  make cards wider */
   box-sizing: border-box;
 }
 .card h3 { margin-top: 0.2rem; }
