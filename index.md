@@ -169,17 +169,29 @@
       Predicting CFB Wins
     </a>
   </h3>
-  <p><em>Python, Scikit-Learn, Web Scraping (BeautifulSoup)</em></p>
+  <p><em>Python, Scikit-Learn, BeautifulSoup, LightGBM, Requests</em></p>
   <p>
-    A predictive modeling project forecasting College Football season outcomes using "Net Efficiency" metrics rather than simple win/loss records.
+    An end-to-end machine learning pipeline which predicts NCAA Division I Football team win percentages based off historical performance data. The projects contains web scraping, feature engineering, exploratory analysis, and various modeling techniques to identify which team statistics correlate the most with winning seasons.
+
+    The pipeline utilizes 1,000+ historical records from 2016-2024, combining data ingestion, data cleaning, and predictive modeling to generate forecasts for the 2025 season.
+
+    Key Features:
   </p>
   <ul>
-    <li><strong>ETL Pipeline:</strong> Built an automated pipeline using <strong>BeautifulSoup</strong> to scrape 9 years of team statistics from <em>cfbstats.com</em>, extracting 50+ raw metrics.</li>
-    <li><strong>Analysis:</strong> Engineered "Net Efficiency" features to train and tune Random Forest, Ridge, and Linear regression models that predict season Win %.</li>
+    <li><strong>Custom Web Scraper:</strong> Built a custom web scraper using <i>BeautifulSoup & Requests</i> to scrape 9 years of team statistics and records from <em>cfbstats.com</em>, extracting 50+ raw metrics.</li>
+    <li><strong>Feature Engineering & EDA:</strong> Derived metrics such as win percentage, turnover margin, and net scoring differential to conduct a correlations analysis via <i>Pandas and Seaborn</i>.</li>
+    <li><strong>Multiple Predictive Models:</strong> Developed and compared five regression model <i>(Linear, Ridge, Random Forest, LightGBM, SVR)</i> with <i>hyperparameter tuning</i> via <i>GridSearchCV and RandomizedSearchCV</i> to optimize model performance on the 2024 test data.</li>
+    <li><strong>Robust Data Pipeline:</strong> Implemented thorough data cleaning with standardized transformations, compound field parsing, and missing value imputations while also excluding 2020 season data due to COVID related anomalies.</li>
   </ul>
+
   <figure>
-    <img src="/assets/cfbwins.png" alt="Predicted win percentages" width="560" loading="lazy">
+    <img src="/assets/cfbwins.png" alt="Predicted win percentages" width="700" loading="lazy">
     <figcaption class="image-caption">Predicted win percentages organized in a bar graph</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/corr_matrix.png" alt="Correlation Matrix" width="700" loading="lazy">
+    <figcaption class="image-caption">A correlation matrix comprising of all the features used within the project.</figcaption>
   </figure>
 </div>
 
@@ -202,7 +214,7 @@
     </li>
     <li><strong>Cardinals Case Study:</strong> Analyzed the Week 4 Arizona Cardinals game to erxtract defensive strategies that helped neutralize the Seahawks' offense, reducing PA effectiveness from 0.57 to -0.02 EPA by bracketing JSN and an 83% blitz rate.
     </li>
-    <li><strong>Visualizations:</strong> Exported the cleaned play-by-play data to Tableau in order to build an interactive storyboard dashboard summarizing both offensive tendencies and player performance.
+    <li><strong>Visualizations:</strong> Exported the cleaned play-by-play data to <i>Tableau</i> in order to build an interactive storyboard dashboard summarizing both offensive tendencies and player performance.
     </li>
   </ul>
   <iframe src="/assets/seahawksreport.pdf" width="100%" height="360px" style="border:1px solid #ddd; border-radius:8px;">
@@ -223,7 +235,7 @@
 
 ## University of Florida — Gainesville, FL
 **M.S., Information Systems & Operations Management (Data Science)** — *Dec 2025*  
-Key focus: machine learning, analytics, data engineering/MLOps
+Key focuses: data analysis machine learning, analytics, data engineering/MLOps, statistics
 
 **B.A., Business Administration & Computer Information Science** — *May 2024*  
 Minor: Computer Information Science & Engineering
