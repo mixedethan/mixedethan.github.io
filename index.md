@@ -82,7 +82,7 @@
   <p><em>Gainesville, FL | August 2023 – January 2025</em></p>
   <p>Participated as a <i>Division I Student-Athlete</i> at the University of Florida as a defensive back while also working a part-time job and completing a full-time STEM graduate program. Developed the discipline, coachability, high work ethic required to manage both athletic and academic demands simultaneously.</p>
   <ul>
-    <li>Competed as a defensive back in the SEC while managing a <i>25+ hour weekly</i> D1 athletic schedule of practice, film study, and conditioning year round.</li>
+    <li>Competed as a defensive back in the SEC while managing a <i>25+ hour weekly</i> D1 athletic schedule of practice, film study, and conditioning year-round.</li>
     <li>Maintained a full-time graduate workload in Data Science with a <i>3.5 GPA</i> while also completing an <i>internship</i> and <i>20+</i> hours of professional development annually.</li>
     <li>Contributed <i>10+ hours</i> a month providing volunteer service to the Gainesville community, including tutoring and mentoring children at local elementary schools and participating in home building programs.</li>
   </ul>
@@ -107,7 +107,7 @@
   <ul>
     <li>Served as the first point of contact for over <i>4400+</i> residents over four years guiding tours, managing the full leasing pipeline from initial contact to signed lease, and performing daily follow-up via phone and text to maintain pipeline momentum.</li>
     <li>Led and mentored a team of 5-6 leasing agents across daily operations, training staff on communication etiquette, prospect techniques, and tour delivery.</li>
-    <li>Temporarily deployed to the largest Landmark property in Gainesville with over 1600 residents to support their annual unit turnover due to demonstrated ability. Worked <i>60+</i> hour weeks to help coordinate apartment cleaning, maintenance, and move in workflows.</li>
+    <li>Temporarily deployed to the largest Landmark property in Gainesville with over 1600 residents to support their annual unit turnover due to demonstrated ability. Worked <i>60+</i> hour weeks to help coordinate apartment cleaning, maintenance, and move-in workflows.</li>
     <li>Implemented <i>automated</i> communication workflows that reduced prospect response time by 12%, essentially streamlining front desk communications allowing for more time to be spent on people facing tasks.</li>
   </ul>
 
@@ -185,7 +185,7 @@
   </h3>
   <p><em>Python, Scikit-Learn, BeautifulSoup, LightGBM, Requests</em></p>
   <p>
-    An end-to-end machine learning pipeline which predicts NCAA Division I Football team win percentages based off historical performance data. The project contains web scraping, feature engineering, exploratory analysis, and various modeling techniques to identify which team statistics correlate the most with winning seasons.
+    An end-to-end machine learning pipeline which predicts NCAA Division I Football team win percentages based on historical performance data. The project contains web scraping, feature engineering, exploratory analysis, and various modeling techniques to identify which team statistics correlate the most with winning seasons.
 
     The pipeline utilizes 1,000+ historical records from 2016-2024, combining data ingestion, data cleaning, and predictive modeling to generate forecasts for the 2025 season.
 
