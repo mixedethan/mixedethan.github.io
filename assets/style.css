@@ -83,6 +83,13 @@ section { animation: fadeUp 450ms ease-out both; }
   box-shadow: 0 10px 26px rgba(0,0,0,0.35);
 }
 
+/* image captions */
+figure {
+  text-align: center;
+  width: 100%;
+  margin: 16px 0;
+}
+
 /* cards */
 .card {
   background: rgba(255,255,255,0.03);
