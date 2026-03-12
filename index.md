@@ -145,7 +145,9 @@
     </a>
   </h3>
   <p><em>Python, LightGBM, Streamlit</em></p>
-  <a href="https://fourthdownio.streamlit.app" target="_blank" rel="noopener noreferrer">FourthDown.io Web App</a>
+  <p>
+    <a href="https://fourthdownio.streamlit.app" target="_blank" rel="noopener noreferrer">Click here for the FourthDown.io Web App</a>
+  </p>
   <p>
     Developed a machine learning pipeline that predicts NFL offensive play-calling decisions by using historical play-by-play data. The project includes building end-to-end data infrastructure, from extracting and preprocesssing real-time game situations to training multiple <i>LightGBM</i> classification models for various situations. The engine takes in factors such as down, distance, field position, and game dynamics to develop probability distributions for play-calliung outcomes and uses <i>SHAP</i> to provide interpretable insights.
   </p>
