@@ -4,6 +4,12 @@ body {
   color: #E6EDF3;
 }
 html { scroll-behavior: smooth; }
+
+:root {
+  --sidebar-w: 280px;
+  --sidebar-gap: 40px;
+}
+
 a {
   color: #58A6FF;
   text-decoration: none;
@@ -60,7 +66,7 @@ section { animation: fadeUp 450ms ease-out both; }
 
 /* layout */
 header {
-  width: 280px;
+  width: var(--sidebar-w);
   min-height: 100vh;
   padding: 24px 18px;
   background: #262730;
@@ -69,6 +75,18 @@ header {
   top: 0;
   left: 0;
   box-sizing: border-box;
+
+
+  overflow: hidden;
+}
+
+
+section {
+  margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
+  padding: 0 40px;
+  box-sizing: border-box;
+  width: auto;
+  max-width: none;
 }
 
 header img {
@@ -79,13 +97,7 @@ header img {
   border: 3px solid #e6e6e6;
 }
 
-section {
-  margin-left: 320px;
-  padding: 0 40px;
-  box-sizing: border-box;
-  width: auto;
-  max-width: none;
-}
+
 
 @media (max-width: 960px) {
   header {
