@@ -6,8 +6,8 @@ body {
 html { scroll-behavior: smooth; }
 
 :root {
-  --sidebar-w: 240px;
-  --sidebar-gap: 20px;
+  --sidebar-w: 280px;
+  --sidebar-gap: 16px;
 }
 
 a {
@@ -29,7 +29,7 @@ nav p {
   margin: 12px 0;
 }
 nav a {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   padding: 10px 12px;
   display: block;
   border-radius: 6px;
