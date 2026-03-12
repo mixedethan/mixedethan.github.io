@@ -1,5 +1,6 @@
 .wrapper {
-  max-width: 1500px;
+  max-width: 1500px !important;
+  padding: 0 20px;
 }
 
 body {
@@ -94,12 +95,12 @@ section { animation: fadeUp 450ms ease-out both; }
   border-radius: 14px;
   padding: 16px 24px;
   margin: 16px 0;
-  width: 120%; /* trying to  make cards wider */
+  width: 100%;
   box-sizing: border-box;
 }
 .card h3 { margin-top: 0.2rem; }
 
-/* layout */
+/* sidebar */
 header {
   width: var(--sidebar-w);
   min-height: 100vh;
@@ -115,14 +116,7 @@ header {
   overflow: hidden;
 }
 
-section {
-  margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
-  padding: 0 30px;
-  box-sizing: border-box;
-  width: auto;
-  max-width: none;
-}
-
+/* profile image */
 header img {
   width: 250px;
   height: 250px;
@@ -131,6 +125,16 @@ header img {
   border: 3px solid #e6e6e6;
 }
 
+/* main content */
+section {
+  margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
+  padding: 0 30px;
+  box-sizing: border-box;
+  width: auto;
+  max-width: none;
+}
+
+/* when screen is narrower than 960px, make sidebar and main content stack */
 @media (max-width: 960px) {
   header {
     position: relative;
