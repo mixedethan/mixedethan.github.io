@@ -250,14 +250,16 @@
 ## University of Florida — Gainesville, FL
 **M.S., Information Systems & Operations Management (Data Science)** — *Dec 2025*
 <ul>
-  <li>
-    Key focuses: data analysis, machine learning, analytics, data engineering/MLOps, statistics
-  </li>
-  <li>GPA: 3.5</li>
+  <li><strong>Key Focuses</strong>: data analysis, machine learning, analytics, data engineering/MLOps, statistics</li>
+  <li><strong>GPA</strong>: 3.5</li>
 </ul>
 
-**B.A., Business Administration & Computer Information Science** — *May 2024*  
-Minor: Computer Information Science & Engineering
+**B.A., Business Administration & Computer Information Science** — *May 2024*
+<ul>
+<li><strong>Minor</strong>: Computer Information Science & Engineering</li>
+<li><strong>Clubs</strong>: Black Students in Business, Software Engineering Club, University Athletics</li>
+</ul>
+
 
 <div style="text-align: center; margin-top: 12px;">
   <img src="/assets/gators.gif" alt="Florida Gators" width="220" loading="lazy">
