@@ -126,12 +126,12 @@
   </ul>
 
   <figure>
-    <img src="/assets/seller_scorecard.png" alt="Seller Scorecard" width="3000" loading="lazy"> <!-- test -->
+    <img src="/assets/seller_scorecard.png" alt="Seller Scorecard" width="800" loading="lazy"> <!-- test -->
     <figcaption class="image-caption">A Seller Scorecard dashboard providing an overview of Seller performance on the Olist e-commerce platform.</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/market_health.png" alt="Market Health Dashboard" width="1100" loading="lazy">
+    <img src="/assets/market_health.png" alt="Market Health Dashboard" width="800" loading="lazy">
     <figcaption class="image-caption">A Market Health Time-Series dashboard detailing the monthly KPIs to be monitored.</figcaption>
   </figure>
 
