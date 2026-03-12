@@ -217,7 +217,7 @@
     <li><strong>Visualizations:</strong> Exported the cleaned play-by-play data to <i>Tableau</i> in order to build an interactive storyboard dashboard summarizing both offensive tendencies and player performance.
     </li>
   </ul>
-  <iframe src="/assets/seahawksreport.pdf" width="100%" height="600px" style="border:1px solid #ddd; border-radius:8px;">
+  <iframe src="/assets/seahawksreport.pdf#toolbar=0" width="100%" height="600px" style="border:1px solid #ddd; border-radius:8px;">
     This browser does not support PDFs.
     <a href="/assets/seahawksreport.pdf" target="_blank" rel="noopener noreferrer">Download the PDF</a>.
   </iframe>

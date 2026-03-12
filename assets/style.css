@@ -31,11 +31,9 @@ a:hover {
 nav {
   margin-top: 24px;
 }
-
 nav p {
   margin: 12px 0;
 }
-
 nav a {
   font-size: 1.1rem;
   padding: 10px 12px;
@@ -43,7 +41,6 @@ nav a {
   border-radius: 6px;
   transition: background-color 150ms ease;
 }
-
 nav a:hover {
   background-color: rgba(88, 166, 255, 0.15);
 }
@@ -67,17 +64,11 @@ h3 {
   height: auto;
 }
 
-/* fade in animation */
-section { animation: fadeUp 450ms ease-out both; }
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
 /* hover animation */
 .badge-row img, figure img {
   transition: transform 180ms ease, box-shadow 180ms ease;
 }
+
 .badge-row img:hover, figure img:hover {
   transform: translateY(-2px);
   box-shadow: 0 10px 26px rgba(0,0,0,0.35);
@@ -101,6 +92,12 @@ figure {
   box-sizing: border-box;
 }
 .card h3 { margin-top: 0.2rem; }
+.card figure, .card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 
 /* sidebar */
 header {
@@ -127,11 +124,18 @@ header img {
 
 /* main content */
 section {
+  animation: fadeUp 450ms ease-out both;
   margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
   padding: 0 30px;
   box-sizing: border-box;
   width: auto;
   max-width: none;
+}
+
+/* fade in animation */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .wrapper,
