@@ -121,10 +121,21 @@ header img {
 /* main content */
 section {
   margin-left: calc(var(--sidebar-w) + var(--sidebar-gap));
-  margin-right: 0;
   padding: 0 30px;
   box-sizing: border-box;
+  width: auto;
+  max-width: none;
 }
+
+.wrapper,
+.page-content,
+.post-content {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
 /* when screen is narrower than 960px, make sidebar and main content stack */
 @media (max-width: 960px) {
   header {
