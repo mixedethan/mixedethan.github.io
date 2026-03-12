@@ -26,11 +26,18 @@
     <a href="https://aroapp.ai" target="_blank" rel="noopener noreferrer">Aroapp.ai</a>
   </h3>
   <p><em>Miami, FL | July 2025 – Dec 2025</em></p>
-
+  <p>
+  Developed an end-to-end MLOps pipeline that transforms raw restaurant partner data into local and trend aware event recommendations for over 500+ Miami resturannt clients, reducing manual ideation time by 60%. The engine uses LLM-driven enrichment, unsupervised clustering, and a human feedback loop to generate, score, and refine event recommendations.
+  </p>
   <ul>
-    <li>Developed an end-to-end <strong>MLOps pipeline</strong> to automatically generate, score, and refine event recommendations for 575 clients, reducing manual ideation time by <strong>60%</strong>.</li>
-    <li>Implemented <strong>NLP</strong> techniques for feature extraction, utilizing <strong>spaCy</strong> for part-of-speech tagging and <strong>sentence-transformers</strong> to create embeddings for clustering.</li>
-    <li>Segmented clients into actionable archetypes by applying a <strong>K-Prototypes clustering</strong> algorithm to mixed encoded data types, then leveraged an LLM to automatically generate descriptive profiles for each cluster.</li>
+    <li><strong>Data Enrichment:</strong> Used <i>GPT-4-turbo</i> along with sturctured JSONs to <i>enrich</i> raw restaurant profiles with 10 standardized fields (ambience, cuisine, guest profile, press mentions, etc.) using data from Eater Miami, Michelin Guide, and Google Business.
+    </li>
+    <li><strong>Feature Engineering & Clustering:</strong> Utilized <i>TF-IDF</i> for keyword importance and <i>sentence-transformers</i> for semantic similarity to encode across 600+ features, then reduces to 387 components via <i>PCA</i>. Optimized <i>K-Means clustering</i> to K=4 archetypes using silhouette score analysis, creating 4 well separated and unique restaurant segments.
+    </li>
+    <li><strong>LLM Event Generation:</strong> Built a two-stage GPT-4-turbo pipeline that first research current trends within the Miami area for each archetype, then generated 4-5 unique and feasible event ideas with titles, strategies, timing, and trend references.
+    </li>
+    <li><strong>Reviewer Model & Feedback Loop:</strong> Tuned a DistilBERT classifier on team feedback (1-5 star ratings on the event ideas mapped to poor/neutral/good) to score and filter the LLM-generated recommendations. The feedback loop consits of automated feedback collection via Mailgun HTML emails which routes the team's feedback back into the reviewer model's training pipeline for continuous quality improvement.
+    </li>
   </ul>
 
   <div style="text-align:center; margin-top:10px;">
@@ -54,11 +61,14 @@
   <h3>Sales Operations Analyst Intern | 
   <a href="https://dexian.com" target="_blank" rel="noopener noreferrer">Dexian</a></h3>
   <p><em>Orlando, FL | May 2024 – June 2024</em></p>
-
+  <p>
+  A sales operations internship within a Dexian staffing and recruiting office where I supported a 12-person sales team by extracting insights from raw Bullhorn <i>CRM/ATS</i> data to track recruiter performance, identify workflow inefficiences, and report pipeline bottlenecks.
+  </p>
   <ul>
-    <li>Engineered <strong>SQL</strong> queries to extract raw CRM/ATS data, identifying bottlenecks within the candidate qualification workflow to improve pipeline efficiency.</li>
-    <li>Designed and deployed interactive <strong>Tableau</strong> dashboards for the 12-person sales team, enabling real-time tracking of KPIs including daily spread, fill rates, and lead time.</li>
-    <li>Modeled historical recruitment data using Python (Pandas) and Excel to aggregate strategic findings into a final presentation for executive leadership.</li>
+    <li>Engineered <i>SQL</i> queries from Bullhorn's raw CRM/ATS data to extract recruiter activity, candidate pipeline stages, and submission to placement conversion rates, identifying bottlenecks within the candidate qualification process.</li>
+    <li>Designed and deployed interactive <i>Tableau</i> dashboards for the 12-person sales team, allwoing for real-time tracking of <i>KPIs</i> including daily spread, fill rates, and lead time.</li>
+    <li>Modeled historical recruitment data using <i>Python (Pandas)
+    </i> and Excel to translate raw CRM data into actionable recommendation for a final presentation to executive leadership.</li>
   </ul>
 
   <div style="clear:both;"></div>
@@ -71,10 +81,11 @@
   <h3>Scholar-Athlete, Defensive Back | 
   <a href="https://floridagators.com/sports/football/roster/ethan-wilson/16744" target="_blank" rel="noopener noreferrer">Florida Gators Football</a> </h3>
   <p><em>Gainesville, FL | August 2023 – January 2025</em></p>
-
+  <p>Participated as a Division I Student-Athlete at the University of Florida as a defensive back while also working a part-time job and completing a full-time STEM graduate program. Developed the discipline, coachability, high work ethic required to manage both atheletic and academical demands simultaneously.</p>
   <ul>
-    <li>Participated in Division I Football at the University of Florida as a defensive back.</li>
-    <li>Managed a 25+ hour weekly D1 athletic schedule while maintaining full-time STEM graduate coursework and completing 20+ hours of professional development annually.</li>
+    <li>Competed as a defensive back in the SEC while managing a 25+ hour weekly D1 athletic schedule of practice, film study, and conditioning year round.</li>
+    <li>Mainted a full-time graduate workload in Data Science with a 3.5 GPA while also completing an internship and 20+ hours of professional development annually.
+    <li>Contributed 10+ hours a month providing volunteer service to the Gainesville community, including tutoring and mentoring children at local elementary schools and participating in home building programs.</li>
   </ul>
 
   <figure style ="text-align: center;">
@@ -91,11 +102,14 @@
   <h3>Lead Student Housing Leasing Agent | 
   <a href="https://www.landmarkproperties.com/" target="_blank" rel="noopener noreferrer">Landmark Properties Inc.</a></h3>
   <p><em>Gainesville, FL | August 2021 – December 2025</em></p>
-
+  <p>
+  A four year tenure as a Lead Leasing agent across three Landmark Properties student housing communities in Gainesville, FL including an essential role in helping launch a brand new property from scratch. Balanced a high-volume sales and customer service role with full-time undergraduate and graduate coursework along with D1 athletics.
+  </p>
   <ul>
-    <li>Cultivated strong relationships with over 830 current and prospective residents, enhancing satisfaction and fostering community engagement.</li>
-    <li>Implemented workflow improvements that reduced communication response time with prospective residents by 12%, directly enhancing operational efficiency.</li>
-    <li>Trained, supervised, and mentored community ambassadors to develop leasing/prospecting and communication skills.</li>
+    <li>Served as the first point of contact for over 4400+ residents over four years guiding tours, managing the full leasing pipeline from intial contact to signed lease, and performing daily follow-up via phone and text to maintain pipeline momentum.</li>
+    <li>Led a mentored a team of 5-6 leasing agent across daily operations, training on staff on communication etiquette, prospect techniques, and tour delivery.</li>
+    <li>Temporarily deployed to the largest Landmark property in Gainesville with over 1600 residents to support their annual unit turnover due to demonstrated ability. Worked 60+ hour weeks to help coordinate apartment cleaning, maintenance, and move in workflows.</li>
+    <li>Implemented automated communication workflows that reduced prospect response time by 12% essentially streamlining front desk communications allowing for more time to be spent on people facing tasks.</li>
   </ul>
 
   <div style="clear:both;"></div>
