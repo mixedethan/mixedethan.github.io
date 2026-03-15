@@ -1,5 +1,5 @@
 # Data Scientist & Analyst | M.S. University of Florida
-*Fort Lauderdale, FL | (954) 856-9486 | ethmwn@gmail.com*
+*(954) 856-9486 | ethmwn@gmail.com*
 
 <div align="left" class="badge-row">
   <a href="https://www.linkedin.com/in/ethan---wilson/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
